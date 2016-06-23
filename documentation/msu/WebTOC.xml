@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="e5e3980d-7333-4095-b0a7-ea1f927bdd03" Title="Lithnet.MetadirectoryServices" Url="html/E65DED07.htm">
+    <HelpTOCNode Id="11967fc1-c6d3-46f0-ba55-f6057ad61ce3" Title="AnchorAttributeSerializable Class" Url="html/56000EFE.htm">
+      <HelpTOCNode Id="98fc25bc-3af8-4d73-a626-725e62eb130b" Title="AnchorAttributeSerializable Properties" Url="html/2E6935AE.htm">
+        <HelpTOCNode Title="DataType Property " Url="html/C59C3097.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/FEC5365B.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/A4CF1097.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="AnchorAttributeSerializable Methods" Url="html/55404465.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="720b3846-1a76-475b-af48-bb39984548b9" Title="AttributeChangeExtentions Class" Url="html/D70B2681.htm">
+      <HelpTOCNode Id="2fc73eaa-f837-48a3-b5c1-95373af2d3b9" Title="AttributeChangeExtentions Methods" Url="html/85B609F5.htm">
+        <HelpTOCNode Title="GetValueAdd(T) Method " Url="html/3DC4B98D.htm" />
+        <HelpTOCNode Title="GetValueAdds(T) Method " Url="html/430C3E65.htm" />
+        <HelpTOCNode Title="GetValueChanges(T) Method " Url="html/E7318B20.htm" />
+        <HelpTOCNode Title="GetValueDeletes(T) Method " Url="html/4AD22971.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="43b6c3c5-6d28-4a29-8e9a-68dcd327b264" Title="AttributeChangeSerializable Class" Url="html/A2E22820.htm">
+      <HelpTOCNode Id="a9c35e3f-ec30-47ee-aafc-dd4805b0468e" Title="AttributeChangeSerializable Properties" Url="html/569AB3DF.htm">
+        <HelpTOCNode Title="DataType Property " Url="html/9E1BCA95.htm" />
+        <HelpTOCNode Title="IsMultiValued Property " Url="html/26D6B470.htm" />
+        <HelpTOCNode Title="ModificationType Property " Url="html/D430F004.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/F17717B7.htm" />
+        <HelpTOCNode Title="ValueChanges Property " Url="html/A7547585.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="AttributeChangeSerializable Methods" Url="html/8976B834.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="201a5188-d035-4ffb-ab98-ac283af26bba" Title="ComparisonEngine Class" Url="html/27F95AC1.htm">
+      <HelpTOCNode Id="b515e1bb-adb2-4f7a-b855-d981637e21f5" Title="ComparisonEngine Properties" Url="html/19EE82EC.htm">
+        <HelpTOCNode Title="AllowedBinaryOperators Property " Url="html/1A43FCDC.htm" />
+        <HelpTOCNode Title="AllowedBooleanOperators Property " Url="html/23964B9B.htm" />
+        <HelpTOCNode Title="AllowedDateTimeOperators Property " Url="html/643C066A.htm" />
+        <HelpTOCNode Title="AllowedIntegerOperators Property " Url="html/92FA964C.htm" />
+        <HelpTOCNode Title="AllowedPresenceOperators Property " Url="html/8AF96C78.htm" />
+        <HelpTOCNode Title="AllowedReferenceOperators Property " Url="html/7FF0CFDA.htm" />
+        <HelpTOCNode Title="AllowedStringOperators Property " Url="html/7641318A.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6aeaccc0-c896-4f4d-9bad-3d324414fb30" Title="ComparisonEngine Methods" Url="html/8C93D5EE.htm">
+        <HelpTOCNode Id="f8982166-70b7-4eaf-a229-effdb0cd790c" Title="Compare Method " Url="html/ACB060B.htm">
+          <HelpTOCNode Title="Compare Method (Attrib, Attrib, ValueOperator)" Url="html/BFC5CC22.htm" />
+          <HelpTOCNode Title="Compare Method (Object, Object, ValueOperator, ExtendedAttributeType)" Url="html/C4DDFE9D.htm" />
+          <HelpTOCNode Title="Compare Method (Object, Object, ValueOperator, AttributeType)" Url="html/C4DCFE9D.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d2cfaf63-a55f-460f-ba3e-d6cca9c1a3a9" Title="CompareBinary Method " Url="html/5DE41870.htm">
+          <HelpTOCNode Title="CompareBinary Method (Byte[], Byte[], ValueOperator)" Url="html/5595BA11.htm" />
+          <HelpTOCNode Title="CompareBinary Method (Byte[], String, ValueOperator)" Url="html/6CBD8C73.htm" />
+          <HelpTOCNode Title="CompareBinary Method (String, String, ValueOperator)" Url="html/CA8E8C73.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="52dd203d-5334-4655-a4ab-7cd837c4cfa1" Title="CompareBoolean Method " Url="html/B5B27503.htm">
+          <HelpTOCNode Title="CompareBoolean Method (Boolean, Boolean, ValueOperator)" Url="html/A92BECD8.htm" />
+          <HelpTOCNode Title="CompareBoolean Method (Boolean, String, ValueOperator)" Url="html/8258A936.htm" />
+          <HelpTOCNode Title="CompareBoolean Method (String, String, ValueOperator)" Url="html/8258A933.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CompareDateTime Method " Url="html/961245B.htm" />
+        <HelpTOCNode Id="ff70c837-3184-413d-94ff-cb7a8f9c1edb" Title="CompareLong Method " Url="html/1388A60D.htm">
+          <HelpTOCNode Title="CompareLong Method (Int64, Int64, ValueOperator)" Url="html/F6FF381D.htm" />
+          <HelpTOCNode Title="CompareLong Method (Int64, String, ValueOperator)" Url="html/9A7DB880.htm" />
+          <HelpTOCNode Title="CompareLong Method (String, String, ValueOperator)" Url="html/9A7CB880.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ecef971a-82a1-4f90-a779-e668f091c705" Title="CompareString Method " Url="html/FB62BFC7.htm">
+          <HelpTOCNode Title="CompareString Method (String, String, ValueOperator)" Url="html/788F7CEA.htm" />
+          <HelpTOCNode Title="CompareString Method (String, String, ValueOperator, StringComparison)" Url="html/E76B12A4.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9b1c6b88-bd83-456d-8c3f-b48d6ef73273" Title="GetAllowedValueOperators Method " Url="html/9141137F.htm">
+          <HelpTOCNode Title="GetAllowedValueOperators Method (AttributeType)" Url="html/A7AE1AF5.htm" />
+          <HelpTOCNode Title="GetAllowedValueOperators Method (ExtendedAttributeType)" Url="html/BDEBC06B.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="IsAllowedBinaryOperator Method " Url="html/F8C20121.htm" />
+        <HelpTOCNode Title="IsAllowedBooleanOperator Method " Url="html/FE32EE6E.htm" />
+        <HelpTOCNode Title="IsAllowedDateTimeOperator Method " Url="html/1E2C9267.htm" />
+        <HelpTOCNode Title="IsAllowedIntegerOperator Method " Url="html/B04C0637.htm" />
+        <HelpTOCNode Id="363f9c37-44d5-4a98-8945-9078f8ebf68f" Title="IsAllowedOperator Method " Url="html/62A45350.htm">
+          <HelpTOCNode Title="IsAllowedOperator Method (ValueOperator, ExtendedAttributeType)" Url="html/82B2CCD0.htm" />
+          <HelpTOCNode Title="IsAllowedOperator Method (ValueOperator, AttributeType)" Url="html/25651C10.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="IsAllowedPresenceOperator Method " Url="html/FED526D.htm" />
+        <HelpTOCNode Title="IsAllowedReferenceOperator Method " Url="html/12A8B51D.htm" />
+        <HelpTOCNode Title="IsAllowedStringOperator Method " Url="html/857175C.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7b93c89d-d89c-406b-9b15-5a63e50de872" Title="CSEntryChangeDeserializer Class" Url="html/E59F7C1D.htm">
+      <HelpTOCNode Id="bf4d4073-80fc-4948-8d2a-1e30142e7c45" Title="CSEntryChangeDeserializer Methods" Url="html/2B555C23.htm">
+        <HelpTOCNode Id="97515adb-dd91-436b-83d5-8d5e81274a8e" Title="Deserialize Method " Url="html/41F02691.htm">
+          <HelpTOCNode Title="Deserialize Method (String)" Url="html/CC0BEE27.htm" />
+          <HelpTOCNode Title="Deserialize Method (XElement)" Url="html/8AC0F8A6.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a5b8c9c8-82bd-41b9-9cad-4e98bc89c86b" Title="CSEntryChangeExtensions Class" Url="html/A901C645.htm">
+      <HelpTOCNode Id="3050c5ea-7dbd-4b91-907e-962e3ef3de5c" Title="CSEntryChangeExtensions Methods" Url="html/9D23AA5A.htm">
+        <HelpTOCNode Id="5d6ae128-e836-4451-96d9-55a2c5ed1a0d" Title="CreateAttributeAdd Method " Url="html/A5D6371D.htm">
+          <HelpTOCNode Title="CreateAttributeAdd Method (CSEntryChange, String, IList(Object))" Url="html/BA071EFB.htm" />
+          <HelpTOCNode Title="CreateAttributeAdd Method (CSEntryChange, String, Object)" Url="html/5645A234.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="deb7df54-ec9d-4bc2-b2aa-febe115e7977" Title="CreateAttributeChange Method " Url="html/497537C0.htm">
+          <HelpTOCNode Title="CreateAttributeChange Method (CSEntryChange, String, AttributeModificationType, IList(ValueChange))" Url="html/1A2E4A.htm" />
+          <HelpTOCNode Title="CreateAttributeChange Method (CSEntryChange, String, AttributeModificationType, IList(Object))" Url="html/1B93BECE.htm" />
+          <HelpTOCNode Title="CreateAttributeChange(T) Method (CSEntryChange, String, AttributeModificationType, Nullable(T))" Url="html/A7B46D23.htm" />
+          <HelpTOCNode Title="CreateAttributeChange Method (CSEntryChange, String, AttributeModificationType, Object)" Url="html/339D60FD.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="16b96120-e27a-4124-a7ab-6d97c478e21d" Title="CreateAttributeChangeIfInSchema Method " Url="html/6BCB0CCA.htm">
+          <HelpTOCNode Title="CreateAttributeChangeIfInSchema Method (CSEntryChange, SchemaType, String, AttributeModificationType, Boolean)" Url="html/2A04B6EA.htm" />
+          <HelpTOCNode Title="CreateAttributeChangeIfInSchema Method (CSEntryChange, SchemaType, String, AttributeModificationType, Byte[])" Url="html/9B520347.htm" />
+          <HelpTOCNode Title="CreateAttributeChangeIfInSchema Method (CSEntryChange, SchemaType, String, AttributeModificationType, IList(ValueChange))" Url="html/9B520348.htm" />
+          <HelpTOCNode Title="CreateAttributeChangeIfInSchema Method (CSEntryChange, SchemaType, String, AttributeModificationType, IList(Object))" Url="html/9B520349.htm" />
+          <HelpTOCNode Title="CreateAttributeChangeIfInSchema Method (CSEntryChange, SchemaType, String, AttributeModificationType, Int64)" Url="html/9B52034A.htm" />
+          <HelpTOCNode Title="CreateAttributeChangeIfInSchema Method (CSEntryChange, SchemaType, String, AttributeModificationType, Nullable(Boolean))" Url="html/9B52034B.htm" />
+          <HelpTOCNode Title="CreateAttributeChangeIfInSchema Method (CSEntryChange, SchemaType, String, AttributeModificationType, Nullable(Int64))" Url="html/9B52034C.htm" />
+          <HelpTOCNode Title="CreateAttributeChangeIfInSchema Method (CSEntryChange, SchemaType, String, AttributeModificationType, String)" Url="html/9B52034D.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CreateAttributeDelete Method " Url="html/A6E32D56.htm" />
+        <HelpTOCNode Id="91b7e83d-1002-4c1e-b820-108e3760731c" Title="CreateAttributeReplace Method " Url="html/15129356.htm">
+          <HelpTOCNode Title="CreateAttributeReplace Method (CSEntryChange, String, IList(Object))" Url="html/B6F446C3.htm" />
+          <HelpTOCNode Title="CreateAttributeReplace Method (CSEntryChange, String, Object)" Url="html/AD718171.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="685fd1c3-bd0f-4b14-94de-68358629bacc" Title="CreateAttributeUpdate Method " Url="html/BB6D7BC6.htm">
+          <HelpTOCNode Title="CreateAttributeUpdate Method (CSEntryChange, String, IList(ValueChange))" Url="html/E8C8582D.htm" />
+          <HelpTOCNode Title="CreateAttributeUpdate Method (CSEntryChange, String, IList(Object), IList(Object))" Url="html/E06A16FB.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetAnchorAttribute Method " Url="html/B81A85CD.htm" />
+        <HelpTOCNode Title="GetAnchorValueOrDefault(T) Method " Url="html/5AEE2E4E.htm" />
+        <HelpTOCNode Title="GetNewDNOrDefault(T) Method " Url="html/DD1570E0.htm" />
+        <HelpTOCNode Title="GetValueAdd(T) Method " Url="html/FE3BCD29.htm" />
+        <HelpTOCNode Title="GetValueAdds(T) Method " Url="html/D9607C87.htm" />
+        <HelpTOCNode Title="GetValueChanges(T) Method " Url="html/56E93754.htm" />
+        <HelpTOCNode Title="GetValueDeletes(T) Method " Url="html/3935A599.htm" />
+        <HelpTOCNode Title="HasAttributeChange Method " Url="html/83A68AB6.htm" />
+        <HelpTOCNode Title="ToDetailString Method " Url="html/70353692.htm" />
+        <HelpTOCNode Title="ToValueChange(T) Method " Url="html/3CC4F0B8.htm" />
+        <HelpTOCNode Title="ToValueChangeAdd(T) Method " Url="html/B73A9930.htm" />
+        <HelpTOCNode Title="ToValueChangeDelete(T) Method " Url="html/32C39DD4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9341d88d-0003-4fe6-bb93-b4304a939324" Title="CSEntryChangeQueue Class" Url="html/C0CF58A4.htm">
+      <HelpTOCNode Id="1e407db8-6cb1-4b69-8ed2-d004e196b7e0" Title="CSEntryChangeQueue Properties" Url="html/445FF9F6.htm">
+        <HelpTOCNode Title="Count Property " Url="html/851A2BA4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="75cf75b8-cab1-47ee-99ac-0d3bb4bb0fb9" Title="CSEntryChangeQueue Methods" Url="html/AE3234E9.htm">
+        <HelpTOCNode Title="Add Method " Url="html/7A42390F.htm" />
+        <HelpTOCNode Title="Clear Method " Url="html/8B5A4A0F.htm" />
+        <HelpTOCNode Title="LoadQueue Method " Url="html/D4F4C29.htm" />
+        <HelpTOCNode Title="SaveQueue Method " Url="html/47E7DF5C.htm" />
+        <HelpTOCNode Title="Take Method " Url="html/8D377A6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1a164039-bce2-4d3c-bbd1-4dad53bc194d" Title="CSEntryChangeResultSerializable Class" Url="html/5EB3EE32.htm">
+      <HelpTOCNode Id="70c015b4-7f6c-425b-8b17-1d101b9a27ff" Title="CSEntryChangeResultSerializable Properties" Url="html/27290853.htm">
+        <HelpTOCNode Title="AnchorChanges Property " Url="html/E8E04C42.htm" />
+        <HelpTOCNode Title="ErrorCode Property " Url="html/214EDAEE.htm" />
+        <HelpTOCNode Title="ErrorDetail Property " Url="html/CB52D65F.htm" />
+        <HelpTOCNode Title="ErrorName Property " Url="html/C4C7A74.htm" />
+        <HelpTOCNode Title="Identifier Property " Url="html/BA99C2E.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CSEntryChangeResultSerializable Methods" Url="html/6F77F353.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="e8121e5b-79c9-4a26-bad5-2c8c5c9a89fb" Title="CSEntryChangeSerializable Class" Url="html/A74C29A8.htm">
+      <HelpTOCNode Id="8410e4c5-2ede-4893-a81a-113bbca1a2d9" Title="CSEntryChangeSerializable Properties" Url="html/6F50723C.htm">
+        <HelpTOCNode Title="AnchorAttributes Property " Url="html/F57DAE18.htm" />
+        <HelpTOCNode Title="AttributeChanges Property " Url="html/E1545ECA.htm" />
+        <HelpTOCNode Title="DN Property " Url="html/C40CC815.htm" />
+        <HelpTOCNode Title="ErrorCodeImport Property " Url="html/745993EB.htm" />
+        <HelpTOCNode Title="ErrorDetail Property " Url="html/B1CE3EA9.htm" />
+        <HelpTOCNode Title="ErrorName Property " Url="html/8CE0C13F.htm" />
+        <HelpTOCNode Title="Identifier Property " Url="html/77C1972B.htm" />
+        <HelpTOCNode Title="ObjectModificationType Property " Url="html/49573BA.htm" />
+        <HelpTOCNode Title="ObjectType Property " Url="html/3B30F568.htm" />
+        <HelpTOCNode Title="RDN Property " Url="html/995CC784.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CSEntryChangeSerializable Methods" Url="html/A043E961.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="cd36f548-485e-4b93-af25-0f889257db02" Title="CSEntryChangeSerializer Class" Url="html/A9BC09B7.htm">
+      <HelpTOCNode Id="ed65a430-2819-47eb-85c4-783513d5173d" Title="CSEntryChangeSerializer Methods" Url="html/760A3C5E.htm">
+        <HelpTOCNode Id="f732f994-18df-4f0a-85c7-192cc7eb084e" Title="Serialize Method " Url="html/E0EFBC5C.htm">
+          <HelpTOCNode Title="Serialize Method (CSEntryChange, XmlWriter, Schema)" Url="html/62CA189D.htm" />
+          <HelpTOCNode Title="Serialize Method (IEnumerable(CSEntryChange), String, Schema)" Url="html/B1C3544D.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ExtendedAttributeType Enumeration" Url="html/F0B51D96.htm" />
+    <HelpTOCNode Id="3bff60d1-acf4-448e-8189-bfaa2d488950" Title="GenericExtensions Class" Url="html/F2AE45D5.htm">
+      <HelpTOCNode Id="3015fc67-ed7c-4b00-9286-0fe03acb3109" Title="GenericExtensions Methods" Url="html/A3211CFF.htm">
+        <HelpTOCNode Title="AppendWithCommaSeparator Method " Url="html/62ADB059.htm" />
+        <HelpTOCNode Title="AppendWithSeparator Method " Url="html/1E3379AC.htm" />
+        <HelpTOCNode Title="ContainsSameElements(T) Method " Url="html/669444E2.htm" />
+        <HelpTOCNode Title="ConvertToUnsecureString Method " Url="html/F9CF11E8.htm" />
+        <HelpTOCNode Title="ToAttributeType Method " Url="html/B2E1BA7A.htm" />
+        <HelpTOCNode Title="ToCommaSeparatedString Method " Url="html/914BC32D.htm" />
+        <HelpTOCNode Title="ToExtendedAttributeType Method " Url="html/182ADBB6.htm" />
+        <HelpTOCNode Title="ToList Method " Url="html/82F2A85D.htm" />
+        <HelpTOCNode Title="ToNewLineSeparatedString Method " Url="html/C23DCCF8.htm" />
+        <HelpTOCNode Id="98401495-883c-44f9-9d36-29fa0155e98d" Title="ToResourceManagementServiceDateFormat Method " Url="html/ECBAE21C.htm">
+          <HelpTOCNode Title="ToResourceManagementServiceDateFormat Method (DateTime)" Url="html/335EA0DE.htm" />
+          <HelpTOCNode Title="ToResourceManagementServiceDateFormat Method (DateTime, Boolean, Boolean)" Url="html/7BC5E850.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ToSeparatedString Method " Url="html/F8F79A52.htm" />
+        <HelpTOCNode Title="ToSmartString Method " Url="html/27205053.htm" />
+        <HelpTOCNode Title="ToSmartStringOrEmptyString Method " Url="html/CC666B50.htm" />
+        <HelpTOCNode Title="ToSmartStringOrNull Method " Url="html/9E32E726.htm" />
+        <HelpTOCNode Title="Truncate Method " Url="html/DB19A444.htm" />
+        <HelpTOCNode Title="TruncateString Method " Url="html/A5065D51.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3ef91040-0832-41ba-b2af-59bfd73ca1f9" Title="GenericExtensions Fields" Url="html/2FF2B61E.htm">
+        <HelpTOCNode Title="ResourceManagementServiceDateFormat Field" Url="html/ACE2903A.htm" />
+        <HelpTOCNode Title="ResourceManagementServiceDateFormatZeroedMilliseconds Field" Url="html/124129D2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3d4192dc-34d9-48d0-98ad-8a52007e1368" Title="MmsSerializationSurrogate Class" Url="html/E263C1E1.htm">
+      <HelpTOCNode Title="MmsSerializationSurrogate Constructor " Url="html/F60EA1FA.htm" />
+      <HelpTOCNode Id="2d48866e-01da-4310-a03c-1ee5c8d07c70" Title="MmsSerializationSurrogate Methods" Url="html/E8B2F2AC.htm">
+        <HelpTOCNode Id="81f23290-ad56-4dc4-9c69-570412dca843" Title="GetCustomDataToExport Method " Url="html/1392102C.htm">
+          <HelpTOCNode Title="GetCustomDataToExport Method (MemberInfo, Type)" Url="html/C7EC059A.htm" />
+          <HelpTOCNode Title="GetCustomDataToExport Method (Type, Type)" Url="html/A4FA68D0.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetDataContractType Method " Url="html/FC764694.htm" />
+        <HelpTOCNode Title="GetDeserializedObject Method " Url="html/C0944CA.htm" />
+        <HelpTOCNode Title="GetKnownCustomDataTypes Method " Url="html/ACE3EC7C.htm" />
+        <HelpTOCNode Title="GetObjectToSerialize Method " Url="html/67759CDE.htm" />
+        <HelpTOCNode Title="GetReferencedTypeOnImport Method " Url="html/F0398290.htm" />
+        <HelpTOCNode Title="ProcessImportedType Method " Url="html/FE0CFC4B.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="25ab5495-0a8f-4f11-85de-b51183ef7674" Title="MmsUtils Class" Url="html/282EA751.htm">
+      <HelpTOCNode Id="34bdf176-6126-4df8-af89-ce6083c47901" Title="MmsUtils Properties" Url="html/3D796A8.htm">
+        <HelpTOCNode Title="DBInstanceName Property " Url="html/F1124DAD.htm" />
+        <HelpTOCNode Title="DBName Property " Url="html/70A7B155.htm" />
+        <HelpTOCNode Title="DBServerName Property " Url="html/2B7A0C6F.htm" />
+        <HelpTOCNode Title="Path Property " Url="html/25C0C905.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8322be2a-abcc-49b5-aa38-a9cede69d665" Title="NotFoundException Class" Url="html/AEE8C590.htm">
+      <HelpTOCNode Id="07336062-f4c7-468b-b627-87fcf9023a8e" Title="NotFoundException Constructor " Url="html/5DB083C9.htm">
+        <HelpTOCNode Title="NotFoundException Constructor " Url="html/76F92D7E.htm" />
+        <HelpTOCNode Title="NotFoundException Constructor (String)" Url="html/12CFA094.htm" />
+        <HelpTOCNode Title="NotFoundException Constructor (String, Exception)" Url="html/12CFA093.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="NotFoundException Properties" Url="html/5B0AE63D.htm" />
+      <HelpTOCNode Title="NotFoundException Methods" Url="html/55C3EF5E.htm" />
+      <HelpTOCNode Title="NotFoundException Events" Url="html/78D466E3.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="PresenceOperator Enumeration" Url="html/6ADBA33E.htm" />
+    <HelpTOCNode Id="edba75b8-26f7-4845-816f-2f4c9c43cfd4" Title="SchemaAttributeSerializable Class" Url="html/54229FBC.htm">
+      <HelpTOCNode Id="593fa1ba-2af6-4b59-b053-3db220003583" Title="SchemaAttributeSerializable Properties" Url="html/19D78334.htm">
+        <HelpTOCNode Title="AllowedAttributeOperation Property " Url="html/7F1EAB01.htm" />
+        <HelpTOCNode Title="DataType Property " Url="html/371A6C11.htm" />
+        <HelpTOCNode Title="IsAnchor Property " Url="html/86CD8F7D.htm" />
+        <HelpTOCNode Title="IsMultiValued Property " Url="html/26CE6667.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/26CE773E.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SchemaAttributeSerializable Methods" Url="html/44DCF8F1.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="418b7f4d-98f4-47a8-8b87-e6c01c73979a" Title="SchemaExtensions Class" Url="html/56CE7E67.htm">
+      <HelpTOCNode Id="2bfa8d61-fe07-48ac-909e-6bda3b111cef" Title="SchemaExtensions Methods" Url="html/2446F3D4.htm">
+        <HelpTOCNode Id="f53e5f54-4dfe-4959-b251-e7ad20428430" Title="HasAttribute Method " Url="html/9B59A4D0.htm">
+          <HelpTOCNode Title="HasAttribute Method (SchemaType, String)" Url="html/4EA9BD50.htm" />
+          <HelpTOCNode Title="HasAttribute Method (SchemaTypeKeyedCollection, String, String)" Url="html/B5B01A0B.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="HasObjectClass Method " Url="html/7CD0B1B9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e3294dbd-2cd7-464b-aa32-592544f45acb" Title="SchemaSerializable Class" Url="html/97752986.htm">
+      <HelpTOCNode Id="f4390ee6-a2a7-4b09-b26e-506ea9eeebf5" Title="SchemaSerializable Properties" Url="html/C2C290FC.htm">
+        <HelpTOCNode Title="Types Property " Url="html/76BE96FE.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SchemaSerializable Methods" Url="html/12B54D09.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7d68b9e8-eeff-45d5-89df-48ee938734e4" Title="SchemaTypeSerializable Class" Url="html/805BCB4D.htm">
+      <HelpTOCNode Id="ab92ffa8-8134-4cf0-983d-f33bb619bc1b" Title="SchemaTypeSerializable Properties" Url="html/B96AA065.htm">
+        <HelpTOCNode Title="Attributes Property " Url="html/701E3D1D.htm" />
+        <HelpTOCNode Title="Locked Property " Url="html/136FFF4F.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/AB8BE74E.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SchemaTypeSerializable Methods" Url="html/2865F5DB.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="79f19837-7a8f-43aa-8536-fb640b49e9c8" Title="TypeConverter Class" Url="html/EFBDF2FF.htm">
+      <HelpTOCNode Id="d94281be-8d9a-443a-9be2-127af0e00f60" Title="TypeConverter Methods" Url="html/5D785B14.htm">
+        <HelpTOCNode Id="b929aac9-128b-46c7-b2fd-925f82aa3a4d" Title="ConvertData Method " Url="html/75591B18.htm">
+          <HelpTOCNode Title="ConvertData(T) Method (Object)" Url="html/F3F0EB38.htm" />
+          <HelpTOCNode Title="ConvertData Method (Object, ExtendedAttributeType)" Url="html/25045C7B.htm" />
+          <HelpTOCNode Title="ConvertData Method (Object, AttributeType)" Url="html/FA91E70D.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetDataType Method " Url="html/3B9F240E.htm" />
+        <HelpTOCNode Title="GetDataTypeExtended Method " Url="html/3BC2D6AE.htm" />
+        <HelpTOCNode Title="IsValidDataType Method " Url="html/CAD74DBD.htm" />
+        <HelpTOCNode Title="ThrowOnAnyInvalidDataType Method " Url="html/F6FD992D.htm" />
+        <HelpTOCNode Title="ThrowOnInvalidDataType Method " Url="html/910243A.htm" />
+        <HelpTOCNode Id="ff778d7e-fd03-4c10-8467-591591432b5d" Title="TryConvertData Method " Url="html/72C9E11B.htm">
+          <HelpTOCNode Title="TryConvertData(T) Method (Object, T)" Url="html/DD63F1EC.htm" />
+          <HelpTOCNode Title="TryConvertData Method (Object, ExtendedAttributeType, Object)" Url="html/A4C33A02.htm" />
+          <HelpTOCNode Title="TryConvertData Method (Object, AttributeType, Object)" Url="html/31992D2B.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="23b4d4ec-ebb3-4064-ad05-bea893ef50e2" Title="UnknownOrUnsupportedDataTypeException Class" Url="html/E44E8B07.htm">
+      <HelpTOCNode Id="14e6acea-5772-4dd6-912a-97a8d7797bc1" Title="UnknownOrUnsupportedDataTypeException Constructor " Url="html/28E8AD97.htm">
+        <HelpTOCNode Title="UnknownOrUnsupportedDataTypeException Constructor " Url="html/41BD993B.htm" />
+        <HelpTOCNode Title="UnknownOrUnsupportedDataTypeException Constructor (String)" Url="html/9877D1EE.htm" />
+        <HelpTOCNode Title="UnknownOrUnsupportedDataTypeException Constructor (String, Exception)" Url="html/9877D1EB.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="UnknownOrUnsupportedDataTypeException Properties" Url="html/61A2F0FB.htm" />
+      <HelpTOCNode Title="UnknownOrUnsupportedDataTypeException Methods" Url="html/1050A149.htm" />
+      <HelpTOCNode Title="UnknownOrUnsupportedDataTypeException Events" Url="html/AC93CB18.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="376d7728-cb1c-4901-891d-aa0e620563fd" Title="UnknownOrUnsupportedModificationTypeException Class" Url="html/3786E195.htm">
+      <HelpTOCNode Id="cd1242f4-7910-4c42-be9e-00fcd3c4eedf" Title="UnknownOrUnsupportedModificationTypeException Constructor " Url="html/811E214A.htm">
+        <HelpTOCNode Title="UnknownOrUnsupportedModificationTypeException Constructor " Url="html/9215065F.htm" />
+        <HelpTOCNode Title="UnknownOrUnsupportedModificationTypeException Constructor (AttributeModificationType)" Url="html/4A5BAB07.htm" />
+        <HelpTOCNode Title="UnknownOrUnsupportedModificationTypeException Constructor (ObjectModificationType)" Url="html/4A5BAB04.htm" />
+        <HelpTOCNode Title="UnknownOrUnsupportedModificationTypeException Constructor (ValueModificationType)" Url="html/4A5BAB05.htm" />
+        <HelpTOCNode Title="UnknownOrUnsupportedModificationTypeException Constructor (String)" Url="html/4A5BAB02.htm" />
+        <HelpTOCNode Title="UnknownOrUnsupportedModificationTypeException Constructor (String, Exception)" Url="html/4A5BAB03.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="UnknownOrUnsupportedModificationTypeException Properties" Url="html/FFECF63F.htm" />
+      <HelpTOCNode Title="UnknownOrUnsupportedModificationTypeException Methods" Url="html/9F5FDE80.htm" />
+      <HelpTOCNode Title="UnknownOrUnsupportedModificationTypeException Events" Url="html/F46648A1.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="b82c5338-1624-4d24-b272-5a45f00fcd02" Title="UnknownOrUnsupportedValueOperatorException Class" Url="html/67996777.htm">
+      <HelpTOCNode Id="383a38d8-d08b-4ae9-9d7b-1d2a3fcb8924" Title="UnknownOrUnsupportedValueOperatorException Constructor " Url="html/4E41DF32.htm">
+        <HelpTOCNode Title="UnknownOrUnsupportedValueOperatorException Constructor " Url="html/897A5104.htm" />
+        <HelpTOCNode Title="UnknownOrUnsupportedValueOperatorException Constructor (String)" Url="html/BBA806AF.htm" />
+        <HelpTOCNode Title="UnknownOrUnsupportedValueOperatorException Constructor (String, Exception)" Url="html/BBA906AF.htm" />
+        <HelpTOCNode Title="UnknownOrUnsupportedValueOperatorException Constructor (ValueOperator, Type)" Url="html/BBAB06AF.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="UnknownOrUnsupportedValueOperatorException Properties" Url="html/D165AE8B.htm" />
+      <HelpTOCNode Title="UnknownOrUnsupportedValueOperatorException Methods" Url="html/C41A8B0B.htm" />
+      <HelpTOCNode Title="UnknownOrUnsupportedValueOperatorException Events" Url="html/EB03AD78.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="bf82e442-ca27-4329-87c6-f1028e8e255d" Title="ValueChangeSerializable Class" Url="html/7E7FBAF9.htm">
+      <HelpTOCNode Id="757046e9-faeb-4475-97d7-4f598e340843" Title="ValueChangeSerializable Properties" Url="html/8F73A78B.htm">
+        <HelpTOCNode Title="ModificationType Property " Url="html/61BE6484.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/4FA9F811.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ValueChangeSerializable Methods" Url="html/7334F30A.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="ValueOperator Enumeration" Url="html/2764110D.htm" />
+  </HelpTOCNode>
+</HelpTOC>
