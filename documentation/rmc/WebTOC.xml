@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="871d8112-8ce3-421f-8c19-640a84047136" Title="Lithnet.ResourceManagement.Client" Url="html/945180D1.htm">
-    <HelpTOCNode Id="1c49499a-9a15-47be-9ff8-3d613eda2684" Title="ApprovalResponse Class" Url="html/179E159A.htm">
+  <HelpTOCNode Id="6f1a99fb-f2a8-4fd3-8fff-5325a9a9dbf5" Title="Lithnet.ResourceManagement.Client" Url="html/945180D1.htm">
+    <HelpTOCNode Id="15d4fb63-734b-4d90-a256-4b38826498bf" Title="ApprovalResponse Class" Url="html/179E159A.htm">
       <HelpTOCNode Title="ApprovalResponse Constructor " Url="html/421B9E97.htm" />
-      <HelpTOCNode Id="82837fc6-f6fc-4fb6-a682-c3cde6b6d3a6" Title="ApprovalResponse Properties" Url="html/63F689B8.htm">
+      <HelpTOCNode Id="626a8c4a-b789-407c-941a-2b1d83bb949e" Title="ApprovalResponse Properties" Url="html/63F689B8.htm">
         <HelpTOCNode Title="Approval Property " Url="html/35C3DF68.htm" />
         <HelpTOCNode Title="Decision Property " Url="html/EA0FD7C7.htm" />
         <HelpTOCNode Title="ObjectType Property " Url="html/198970AD.htm" />
@@ -13,8 +13,8 @@
       <HelpTOCNode Title="ApprovalResponse Methods" Url="html/ADF0B103.htm" />
     </HelpTOCNode>
     <HelpTOCNode Title="ApprovalStatus Enumeration" Url="html/6AF410B7.htm" />
-    <HelpTOCNode Id="2af767ae-f6c2-4695-842c-89c008619a85" Title="AttributeNames Class" Url="html/BC1E0F95.htm">
-      <HelpTOCNode Id="1b9f2268-8556-49b1-bcdb-8211167b762b" Title="AttributeNames Fields" Url="html/8D562455.htm">
+    <HelpTOCNode Id="119e4a76-565a-444b-9a42-3ece419ed39d" Title="AttributeNames Class" Url="html/BC1E0F95.htm">
+      <HelpTOCNode Id="23879051-5272-473e-bf31-5c661ec98630" Title="AttributeNames Fields" Url="html/8D562455.htm">
         <HelpTOCNode Title="AccountName Field" Url="html/CB70D7C9.htm" />
         <HelpTOCNode Title="ApprovalStatus Field" Url="html/F7C9E371.htm" />
         <HelpTOCNode Title="Approver Field" Url="html/F3E1FDFE.htm" />
@@ -45,9 +45,21 @@
         <HelpTOCNode Title="WorkflowInstance Field" Url="html/13CE40B3.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
+    <HelpTOCNode Id="432d8c18-837e-4578-979d-825d3eb6ac45" Title="AttributeRepresentationFailureException Class" Url="html/4DAF2F39.htm">
+      <HelpTOCNode Title="AttributeRepresentationFailureException Constructor " Url="html/3BD94575.htm" />
+      <HelpTOCNode Id="86bd2e4b-e8ec-4dc7-b7ec-5414eb388cdb" Title="AttributeRepresentationFailureException Properties" Url="html/63DEBD2E.htm">
+        <HelpTOCNode Title="AdditionalTextDetails Property " Url="html/614AE0DA.htm" />
+        <HelpTOCNode Title="AttributeFailureCode Property " Url="html/88DB395.htm" />
+        <HelpTOCNode Title="AttributeType Property " Url="html/A921F3E8.htm" />
+        <HelpTOCNode Title="AttributeValue Property " Url="html/1D074F20.htm" />
+        <HelpTOCNode Title="FailureMessage Property " Url="html/F7543FC2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="AttributeRepresentationFailureException Methods" Url="html/2FA435B6.htm" />
+      <HelpTOCNode Title="AttributeRepresentationFailureException Events" Url="html/7A1FA427.htm" />
+    </HelpTOCNode>
     <HelpTOCNode Title="AttributeType Enumeration" Url="html/5816FE1D.htm" />
-    <HelpTOCNode Id="79be6c59-bb7f-4723-84fb-7a7a18e263e2" Title="AttributeTypeDefinition Class" Url="html/C00E11DF.htm">
-      <HelpTOCNode Id="e93aa633-b742-4ba7-b39c-398be83ed3a1" Title="AttributeTypeDefinition Properties" Url="html/1AD8CA1F.htm">
+    <HelpTOCNode Id="a51f2b02-f85d-4fc4-b491-60e4884d4d41" Title="AttributeTypeDefinition Class" Url="html/C00E11DF.htm">
+      <HelpTOCNode Id="cd4bda53-5e15-45f5-86a9-063f339063bc" Title="AttributeTypeDefinition Properties" Url="html/1AD8CA1F.htm">
         <HelpTOCNode Title="Description Property " Url="html/C3B7B6FC.htm" />
         <HelpTOCNode Title="DisplayName Property " Url="html/8A8F5D05.htm" />
         <HelpTOCNode Title="IsMultivalued Property " Url="html/1C5F1D3F.htm" />
@@ -57,12 +69,12 @@
         <HelpTOCNode Title="SystemName Property " Url="html/E7F4AAD5.htm" />
         <HelpTOCNode Title="Type Property " Url="html/AC62B0A8.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="9ccc896c-afb8-4523-bd7b-f18c6083ddc4" Title="AttributeTypeDefinition Methods" Url="html/5CCB521B.htm">
+      <HelpTOCNode Id="bd781636-3901-4147-95ca-6bb72e0e0484" Title="AttributeTypeDefinition Methods" Url="html/5CCB521B.htm">
         <HelpTOCNode Title="ToString Method " Url="html/97A2F311.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c67fb873-da50-46a3-9571-2235225f8dc9" Title="AttributeValue Class" Url="html/349B0FA5.htm">
-      <HelpTOCNode Id="9acfa6eb-86ca-4e46-87ee-9b526f252af9" Title="AttributeValue Properties" Url="html/C319B95.htm">
+    <HelpTOCNode Id="06717b23-1c4c-41df-a85d-8a4a0d90938f" Title="AttributeValue Class" Url="html/349B0FA5.htm">
+      <HelpTOCNode Id="498ebbfc-6640-40d5-9160-2b398755b677" Title="AttributeValue Properties" Url="html/C319B95.htm">
         <HelpTOCNode Title="Attribute Property " Url="html/5304DA20.htm" />
         <HelpTOCNode Title="AttributeName Property " Url="html/708EBBDA.htm" />
         <HelpTOCNode Title="BinaryValue Property " Url="html/6F348F0B.htm" />
@@ -80,7 +92,7 @@
         <HelpTOCNode Title="Value Property " Url="html/574B4CFF.htm" />
         <HelpTOCNode Title="ValueChanges Property " Url="html/C85D644D.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="8efdb89e-d0ed-413f-99f0-89e685a93f76" Title="AttributeValue Methods" Url="html/4D28D0EC.htm">
+      <HelpTOCNode Id="487d3d62-cd1a-4b14-ad92-77289085cafc" Title="AttributeValue Methods" Url="html/4D28D0EC.htm">
         <HelpTOCNode Title="AddValue Method " Url="html/D0A806D5.htm" />
         <HelpTOCNode Title="Equals Method " Url="html/C4D432AC.htm" />
         <HelpTOCNode Title="GetHashCode Method " Url="html/BB2FCE60.htm" />
@@ -91,80 +103,96 @@
         <HelpTOCNode Title="ToString Method " Url="html/D4A50713.htm" />
         <HelpTOCNode Title="UndoChanges Method " Url="html/12C00793.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="2be5d138-7cf6-4dcb-98d9-0f2b4a9c4d44" Title="AttributeValue Operators" Url="html/99124FA3.htm">
+      <HelpTOCNode Id="c1013e28-f0ca-4ab0-8496-4bbceba81ee3" Title="AttributeValue Operators" Url="html/99124FA3.htm">
         <HelpTOCNode Title="Equality Operator " Url="html/487D5711.htm" />
         <HelpTOCNode Title="Inequality Operator " Url="html/B4B60D6F.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e3ee2e71-3c01-478b-83b4-eee431765122" Title="AttributeValueChange Class" Url="html/1678CAEA.htm">
-      <HelpTOCNode Id="3f85c02c-555b-4034-a385-622501a90d2b" Title="AttributeValueChange Properties" Url="html/CC158488.htm">
+    <HelpTOCNode Id="c9715df4-6095-4608-9e82-1b76afc081ca" Title="AttributeValueChange Class" Url="html/1678CAEA.htm">
+      <HelpTOCNode Id="f0f768dd-093c-4d0f-829a-4e27db6b2e47" Title="AttributeValueChange Properties" Url="html/CC158488.htm">
         <HelpTOCNode Title="ChangeType Property " Url="html/323377CA.htm" />
         <HelpTOCNode Title="Value Property " Url="html/91CDD5A8.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="AttributeValueChange Methods" Url="html/A0C06A97.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="7f5e0360-c79e-407c-ba62-56988b7e30a6" Title="AttributeValueCollection Class" Url="html/23B64F77.htm">
-      <HelpTOCNode Id="3848789f-563a-4158-b83c-e50b5546602e" Title="AttributeValueCollection Properties" Url="html/A5181644.htm">
+    <HelpTOCNode Id="3bf2de02-af4d-41bb-94d5-b123f6024a01" Title="AttributeValueCollection Class" Url="html/23B64F77.htm">
+      <HelpTOCNode Id="8fb3579c-56a6-4c5c-9ab6-a18fafdea3f1" Title="AttributeValueCollection Properties" Url="html/A5181644.htm">
         <HelpTOCNode Title="Item Property " Url="html/E7006BAB.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="28a57b78-9592-44bf-a934-39b712eee83f" Title="AttributeValueCollection Methods" Url="html/2938876.htm">
+      <HelpTOCNode Id="ed0432fe-38ad-4ddb-ab64-231da21fff9e" Title="AttributeValueCollection Methods" Url="html/2938876.htm">
         <HelpTOCNode Title="ContainsAttribute Method " Url="html/F0357CB9.htm" />
         <HelpTOCNode Title="GetEnumerator Method " Url="html/EAA1A512.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d5d50bd6-b281-4e7a-aa67-77efb0a632fe" Title="AttributeValuePair Class" Url="html/F8914043.htm">
-      <HelpTOCNode Id="7ee3f687-90ee-40eb-8093-cfc58d3c31ab" Title="AttributeValuePair Constructor " Url="html/5CD5DB87.htm">
+    <HelpTOCNode Id="96d14311-fec7-4ea4-96b6-4e7a164b872e" Title="AttributeValuePair Class" Url="html/F8914043.htm">
+      <HelpTOCNode Id="3abe1315-f618-4239-9c18-92803f60168e" Title="AttributeValuePair Constructor " Url="html/5CD5DB87.htm">
         <HelpTOCNode Title="AttributeValuePair Constructor " Url="html/8BD4342C.htm" />
         <HelpTOCNode Title="AttributeValuePair Constructor (String, Object)" Url="html/BD5A7946.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="47fdca2c-5770-447a-b0f6-819b767066c9" Title="AttributeValuePair Properties" Url="html/48758AE8.htm">
+      <HelpTOCNode Id="5d93d50c-95ca-418e-ab18-dc1b9aba1bbb" Title="AttributeValuePair Properties" Url="html/48758AE8.htm">
         <HelpTOCNode Title="AttributeName Property " Url="html/2579B152.htm" />
         <HelpTOCNode Title="Value Property " Url="html/18805A8E.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="AttributeValuePair Methods" Url="html/3B2C292A.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="8657c754-201d-4930-8430-9ac395d14c29" Title="AttributeValuePairCollection Class" Url="html/E55A0DB7.htm">
-      <HelpTOCNode Id="bcdd07af-6e11-4472-ba7c-54c80802d93d" Title="AttributeValuePairCollection Constructor " Url="html/AD9AEDEE.htm">
+    <HelpTOCNode Id="62674c1d-3865-418a-993a-ecc839aac76f" Title="AttributeValuePairCollection Class" Url="html/E55A0DB7.htm">
+      <HelpTOCNode Id="a8b81e11-8bd7-4860-834b-5bc6144892db" Title="AttributeValuePairCollection Constructor " Url="html/AD9AEDEE.htm">
         <HelpTOCNode Title="AttributeValuePairCollection Constructor " Url="html/2235FA7D.htm" />
         <HelpTOCNode Title="AttributeValuePairCollection Constructor (String, Object)" Url="html/53F0AF83.htm" />
         <HelpTOCNode Title="AttributeValuePairCollection Constructor (String, Object, String, Object)" Url="html/F61FAF83.htm" />
         <HelpTOCNode Title="AttributeValuePairCollection Constructor (String, Object, String, Object, String, Object)" Url="html/6ABAAF83.htm" />
         <HelpTOCNode Title="AttributeValuePairCollection Constructor (String, Object, String, Object, String, Object, String, Object)" Url="html/CE9AF83.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="2c8d4666-3f34-473c-a587-d4922d665474" Title="AttributeValuePairCollection Methods" Url="html/772AC4DD.htm">
+      <HelpTOCNode Id="eaa816a2-d2c5-4fac-9056-915603925f21" Title="AttributeValuePairCollection Methods" Url="html/772AC4DD.htm">
         <HelpTOCNode Title="Add Method " Url="html/A5F89059.htm" />
         <HelpTOCNode Title="GetEnumerator Method " Url="html/7059017B.htm" />
         <HelpTOCNode Title="Remove Method " Url="html/7CAF26C7.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="ComparisonOperator Enumeration" Url="html/B5F22A93.htm" />
-    <HelpTOCNode Id="2978a72b-5832-4128-82af-a1a3dd88c639" Title="Extensions Class" Url="html/E3339C09.htm">
-      <HelpTOCNode Id="e26dd90f-4cf3-4f32-8394-b1182fcc512c" Title="Extensions Methods" Url="html/BE5DBA8C.htm">
-        <HelpTOCNode Id="f77d3644-2c33-4778-a858-7a530eae5aad" Title="ToResourceManagementServiceDateFormat Method " Url="html/889EA5B5.htm">
+    <HelpTOCNode Id="52d06dd0-3f97-4db2-969e-11bf2231d244" Title="Extensions Class" Url="html/E3339C09.htm">
+      <HelpTOCNode Id="38207c83-beae-4d31-8c86-c100416324b0" Title="Extensions Methods" Url="html/BE5DBA8C.htm">
+        <HelpTOCNode Id="c3c194c2-901b-4ff1-9797-d1f133ff6c61" Title="ToResourceManagementServiceDateFormat Method " Url="html/889EA5B5.htm">
           <HelpTOCNode Title="ToResourceManagementServiceDateFormat Method (DateTime)" Url="html/FFA35B65.htm" />
           <HelpTOCNode Title="ToResourceManagementServiceDateFormat Method (DateTime, Boolean)" Url="html/3E66AC1D.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="GroupOperator Enumeration" Url="html/2C632699.htm" />
-    <HelpTOCNode Id="d9cba4b9-009c-4b94-b0bf-87c64ef0d368" Title="ISearchResultCollection Interface" Url="html/A88DFD97.htm">
-      <HelpTOCNode Id="bc0333b5-001f-4bb0-8f76-2b6ef8487e72" Title="ISearchResultCollection Properties" Url="html/675B1E39.htm">
+    <HelpTOCNode Id="cf1da5c2-0a49-4962-9b9a-eb8817f6065d" Title="InvalidRepresentationException Class" Url="html/C6281894.htm">
+      <HelpTOCNode Title="InvalidRepresentationException Constructor " Url="html/544216D3.htm" />
+      <HelpTOCNode Title="InvalidRepresentationException Properties" Url="html/2DC0E110.htm" />
+      <HelpTOCNode Title="InvalidRepresentationException Methods" Url="html/E52DD738.htm" />
+      <HelpTOCNode Title="InvalidRepresentationException Events" Url="html/76D5BC13.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="359281b9-5ae3-4e95-8431-2483980ab47a" Title="ISearchResultCollection Interface" Url="html/A88DFD97.htm">
+      <HelpTOCNode Id="5d2fd1a0-1e27-497e-bcc5-860db8e0b21c" Title="ISearchResultCollection Properties" Url="html/675B1E39.htm">
         <HelpTOCNode Title="Count Property " Url="html/AF06E725.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ISearchResultCollection Methods" Url="html/666CC19E.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="d2a08dbd-784f-412a-a08e-1632a6d197ca" Title="IXPathQueryObject Interface" Url="html/6DE8112D.htm">
-      <HelpTOCNode Id="241a5947-be71-4476-bde8-47901078022d" Title="IXPathQueryObject Methods" Url="html/30E1963C.htm">
+    <HelpTOCNode Id="9db87633-f7e9-4564-a24b-944e10e6f26f" Title="IXPathQueryObject Interface" Url="html/6DE8112D.htm">
+      <HelpTOCNode Id="2ebbe769-11f8-474a-aa5d-40b2ab8379a3" Title="IXPathQueryObject Methods" Url="html/30E1963C.htm">
         <HelpTOCNode Title="BuildQueryString Method " Url="html/70732CEC.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="1d630247-d6d8-4e52-85e7-3663b6bc6cd6" Title="LdapFilterParserException Class" Url="html/2E5DAE9B.htm">
+    <HelpTOCNode Id="838e3a5e-f5a7-4cc1-a09d-4075d50aedc8" Title="LdapFilterParserException Class" Url="html/2E5DAE9B.htm">
       <HelpTOCNode Title="LdapFilterParserException Properties" Url="html/FB6B1153.htm" />
       <HelpTOCNode Title="LdapFilterParserException Methods" Url="html/88DFBD9E.htm" />
       <HelpTOCNode Title="LdapFilterParserException Events" Url="html/580CECB8.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="6c3cb83a-0a75-4079-a4bd-1e854278c855" Title="NoSuchAttributeException Class" Url="html/18543684.htm">
-      <HelpTOCNode Id="fb61a1a9-909a-4e53-bf71-2c0522e48eda" Title="NoSuchAttributeException Constructor " Url="html/87F397E0.htm">
+    <HelpTOCNode Id="dbeebf57-a62f-4f0c-ae81-6531426e7015" Title="MessageRepresentationFailureException Class" Url="html/6154E239.htm">
+      <HelpTOCNode Title="MessageRepresentationFailureException Constructor " Url="html/9558B654.htm" />
+      <HelpTOCNode Id="21515662-e600-4668-890c-01a23714e053" Title="MessageRepresentationFailureException Properties" Url="html/7E824F6A.htm">
+        <HelpTOCNode Title="AdditionalTextDetails Property " Url="html/BAF5F22C.htm" />
+        <HelpTOCNode Title="FailureMessage Property " Url="html/451072DE.htm" />
+        <HelpTOCNode Title="MessageFailureCode Property " Url="html/48706C1D.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="MessageRepresentationFailureException Methods" Url="html/8B707F42.htm" />
+      <HelpTOCNode Title="MessageRepresentationFailureException Events" Url="html/9CE2432D.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7af258c4-a719-495e-997e-b5c32eb7d113" Title="NoSuchAttributeException Class" Url="html/18543684.htm">
+      <HelpTOCNode Id="0e9baf5c-8cc5-420b-a98f-c823e8b0a5f2" Title="NoSuchAttributeException Constructor " Url="html/87F397E0.htm">
         <HelpTOCNode Title="NoSuchAttributeException Constructor " Url="html/F07356DA.htm" />
         <HelpTOCNode Title="NoSuchAttributeException Constructor (String)" Url="html/67B977A3.htm" />
         <HelpTOCNode Title="NoSuchAttributeException Constructor (String, Exception)" Url="html/F31E77A3.htm" />
@@ -174,8 +202,8 @@
       <HelpTOCNode Title="NoSuchAttributeException Methods" Url="html/B32B8723.htm" />
       <HelpTOCNode Title="NoSuchAttributeException Events" Url="html/511B9CBF.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="1d2a2abb-026e-4599-b2a8-38995ac76f6e" Title="NoSuchObjectTypeException Class" Url="html/501AA459.htm">
-      <HelpTOCNode Id="a4fa1242-cbec-4163-aa8e-6fa49913f4fc" Title="NoSuchObjectTypeException Constructor " Url="html/AEACD7F7.htm">
+    <HelpTOCNode Id="f8b892df-bf66-435f-aa84-6d4d8e9f5508" Title="NoSuchObjectTypeException Class" Url="html/501AA459.htm">
+      <HelpTOCNode Id="671c65ba-6982-4774-8424-708118bb1178" Title="NoSuchObjectTypeException Constructor " Url="html/AEACD7F7.htm">
         <HelpTOCNode Title="NoSuchObjectTypeException Constructor " Url="html/549926D.htm" />
         <HelpTOCNode Title="NoSuchObjectTypeException Constructor (String)" Url="html/A9518F45.htm" />
         <HelpTOCNode Title="NoSuchObjectTypeException Constructor (String, Exception)" Url="html/A9518F48.htm" />
@@ -184,20 +212,20 @@
       <HelpTOCNode Title="NoSuchObjectTypeException Methods" Url="html/7E059F79.htm" />
       <HelpTOCNode Title="NoSuchObjectTypeException Events" Url="html/36012FAB.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="8cda69ad-3ff1-4cab-aad0-ba034d4556ca" Title="ObjectTypeDefinition Class" Url="html/25F16D4.htm">
-      <HelpTOCNode Id="a8bfad49-05ae-4c24-b5d8-90fe58885caf" Title="ObjectTypeDefinition Properties" Url="html/A2C668D2.htm">
+    <HelpTOCNode Id="a661bd2f-68cb-4d10-99ab-c28f8dddbd3f" Title="ObjectTypeDefinition Class" Url="html/25F16D4.htm">
+      <HelpTOCNode Id="a112839b-032d-4553-b163-9af7549b0f0b" Title="ObjectTypeDefinition Properties" Url="html/A2C668D2.htm">
         <HelpTOCNode Title="Attributes Property " Url="html/E84C9C5F.htm" />
         <HelpTOCNode Title="Description Property " Url="html/91A461D9.htm" />
         <HelpTOCNode Title="DisplayName Property " Url="html/8C15F862.htm" />
         <HelpTOCNode Title="Item Property " Url="html/2B0EADF6.htm" />
         <HelpTOCNode Title="SystemName Property " Url="html/7AD48A38.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c819d9bd-bf2a-43f5-8a9e-f1275c6d7ab0" Title="ObjectTypeDefinition Methods" Url="html/82B6675D.htm">
+      <HelpTOCNode Id="62ca1a13-0728-456b-b3dc-ec2316af5848" Title="ObjectTypeDefinition Methods" Url="html/82B6675D.htm">
         <HelpTOCNode Title="ToString Method " Url="html/3BD7D3F3.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="dd834207-6b85-49fa-806f-c636dc666e16" Title="ObjectTypeNames Class" Url="html/F7A07D13.htm">
-      <HelpTOCNode Id="2ed9c3b1-45ce-4881-bddd-7e02080099b7" Title="ObjectTypeNames Fields" Url="html/BC4C4212.htm">
+    <HelpTOCNode Id="420ea7ed-2260-4586-b043-a5c8beeb01bd" Title="ObjectTypeNames Class" Url="html/F7A07D13.htm">
+      <HelpTOCNode Id="73e3781f-d146-4bbf-9ebd-2053dcd32db9" Title="ObjectTypeNames Fields" Url="html/BC4C4212.htm">
         <HelpTOCNode Title="Approval Field" Url="html/6827E3F4.htm" />
         <HelpTOCNode Title="ApprovalResponse Field" Url="html/61FF0A19.htm" />
         <HelpTOCNode Title="AttributeTypeDescription Field" Url="html/6524CA7D.htm" />
@@ -211,8 +239,19 @@
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="OperationType Enumeration" Url="html/EE93733B.htm" />
-    <HelpTOCNode Id="27dbbf5b-f6dd-4cae-b4f8-b42a1ad28d82" Title="ReadOnlyValueModificationException Class" Url="html/565F8497.htm">
-      <HelpTOCNode Id="538e6f92-62c5-4823-9d1c-1433e26ab804" Title="ReadOnlyValueModificationException Constructor " Url="html/11D860C3.htm">
+    <HelpTOCNode Id="fe200e6b-c977-4fef-90b0-e4cc72da7a82" Title="PermissionDeniedException Class" Url="html/9282A838.htm">
+      <HelpTOCNode Title="PermissionDeniedException Constructor " Url="html/FE94EA30.htm" />
+      <HelpTOCNode Id="44e3785f-5c9d-4658-9b53-e523b9b20414" Title="PermissionDeniedException Properties" Url="html/1A3C4B72.htm">
+        <HelpTOCNode Title="AdditionalTextDetails Property " Url="html/B8D584DB.htm" />
+        <HelpTOCNode Title="Attributes Property " Url="html/156AB676.htm" />
+        <HelpTOCNode Title="FailureMessage Property " Url="html/E64274DD.htm" />
+        <HelpTOCNode Title="FailureSource Property " Url="html/6C759332.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PermissionDeniedException Methods" Url="html/98F05743.htm" />
+      <HelpTOCNode Title="PermissionDeniedException Events" Url="html/CF3AA75C.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ee709534-aa2e-4d6b-8f2c-66b05d525211" Title="ReadOnlyValueModificationException Class" Url="html/565F8497.htm">
+      <HelpTOCNode Id="557fdf4c-3c52-455f-b9bb-997cf3ba8c16" Title="ReadOnlyValueModificationException Constructor " Url="html/11D860C3.htm">
         <HelpTOCNode Title="ReadOnlyValueModificationException Constructor " Url="html/252F5DBE.htm" />
         <HelpTOCNode Title="ReadOnlyValueModificationException Constructor (String)" Url="html/5667A772.htm" />
         <HelpTOCNode Title="ReadOnlyValueModificationException Constructor (AttributeTypeDefinition)" Url="html/5664A772.htm" />
@@ -222,35 +261,35 @@
       <HelpTOCNode Title="ReadOnlyValueModificationException Methods" Url="html/6C0A5953.htm" />
       <HelpTOCNode Title="ReadOnlyValueModificationException Events" Url="html/1AAA365C.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="a797c305-adab-4e97-9092-fdb58781a08b" Title="ResourceManagementClient Class" Url="html/80AE9160.htm">
-      <HelpTOCNode Id="1b407440-1f62-41f8-ae45-2a4b7b52b3b9" Title="ResourceManagementClient Constructor " Url="html/3C965CAE.htm">
+    <HelpTOCNode Id="4b227a5d-1912-4579-a454-8a16b2cc24aa" Title="ResourceManagementClient Class" Url="html/80AE9160.htm">
+      <HelpTOCNode Id="c9642b2b-09ee-4168-8cf7-76417bc6013d" Title="ResourceManagementClient Constructor " Url="html/3C965CAE.htm">
         <HelpTOCNode Title="ResourceManagementClient Constructor " Url="html/852E305F.htm" />
         <HelpTOCNode Title="ResourceManagementClient Constructor (NetworkCredential)" Url="html/81C960CE.htm" />
         <HelpTOCNode Title="ResourceManagementClient Constructor (String)" Url="html/23F860CE.htm" />
         <HelpTOCNode Title="ResourceManagementClient Constructor (String, NetworkCredential)" Url="html/989360CE.htm" />
         <HelpTOCNode Title="ResourceManagementClient Constructor (Uri, NetworkCredential, String, Boolean)" Url="html/3AC260CE.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ae2ce1c0-ac4c-4601-b0f8-29514027fc81" Title="ResourceManagementClient Methods" Url="html/87065591.htm">
+      <HelpTOCNode Id="1f28b8ec-6792-4f72-83f9-7ce57245cc14" Title="ResourceManagementClient Methods" Url="html/87065591.htm">
         <HelpTOCNode Title="Approve Method " Url="html/C2A38E3F.htm" />
         <HelpTOCNode Title="CreateResource Method " Url="html/D700DA02.htm" />
         <HelpTOCNode Title="CreateResourceTemplateForUpdate Method " Url="html/8F032AF5.htm" />
-        <HelpTOCNode Id="e12c6dc3-cb42-4ba3-b012-fe69dc975f21" Title="DeleteResource Method " Url="html/6A86057B.htm">
+        <HelpTOCNode Id="fef27f57-3e97-4455-80d3-3135c6fcd2f1" Title="DeleteResource Method " Url="html/6A86057B.htm">
           <HelpTOCNode Title="DeleteResource Method (UniqueIdentifier)" Url="html/CFEF1166.htm" />
           <HelpTOCNode Title="DeleteResource Method (Guid)" Url="html/CFEF1169.htm" />
           <HelpTOCNode Title="DeleteResource Method (String)" Url="html/CFEF1168.htm" />
           <HelpTOCNode Title="DeleteResource Method (ResourceObject)" Url="html/DDC29E80.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5cfce05c-29a5-4d1f-8ef8-e5c96c88126b" Title="DeleteResources Method " Url="html/525D1250.htm">
+        <HelpTOCNode Id="cb7af682-04d7-4242-a6cf-2d091aa8c73d" Title="DeleteResources Method " Url="html/525D1250.htm">
           <HelpTOCNode Title="DeleteResources Method (IEnumerable(UniqueIdentifier))" Url="html/6A5210FC.htm" />
           <HelpTOCNode Title="DeleteResources Method (IEnumerable(Guid))" Url="html/6A5110FC.htm" />
           <HelpTOCNode Title="DeleteResources Method (IEnumerable(String))" Url="html/6A5010FC.htm" />
           <HelpTOCNode Title="DeleteResources Method (IEnumerable(ResourceObject))" Url="html/2F6D9E80.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="032e7472-263f-4f8c-963f-121f3e46daaf" Title="GetApprovals Method " Url="html/FD58FCD1.htm">
+        <HelpTOCNode Id="ce2d0a87-1d54-4c1e-883a-10c2811992bf" Title="GetApprovals Method " Url="html/FD58FCD1.htm">
           <HelpTOCNode Title="GetApprovals Method (ApprovalStatus)" Url="html/F833092D.htm" />
           <HelpTOCNode Title="GetApprovals Method (ApprovalStatus, UniqueIdentifier)" Url="html/BA10060A.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5e64f5a1-5b71-471c-86ab-7fec7e4dbd86" Title="GetResource Method " Url="html/17D97CBE.htm">
+        <HelpTOCNode Id="e1a119ac-f87c-4fbd-ba8b-aef16fd6095c" Title="GetResource Method " Url="html/17D97CBE.htm">
           <HelpTOCNode Title="GetResource Method (UniqueIdentifier)" Url="html/F448DEEE.htm" />
           <HelpTOCNode Title="GetResource Method (Guid)" Url="html/4C0852D7.htm" />
           <HelpTOCNode Title="GetResource Method (String)" Url="html/4C0A52D7.htm" />
@@ -259,14 +298,14 @@
           <HelpTOCNode Title="GetResource Method (String, IEnumerable(String))" Url="html/4C0B52D7.htm" />
           <HelpTOCNode Title="GetResource Method (UniqueIdentifier, IEnumerable(String), CultureInfo)" Url="html/4C0752D7.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5ad3ec70-04df-4d3c-9a2f-fa87807bc2fb" Title="GetResourceByKey Method " Url="html/D6888161.htm">
+        <HelpTOCNode Id="78c08833-cbe0-4455-b44f-43ca4d8d254d" Title="GetResourceByKey Method " Url="html/D6888161.htm">
           <HelpTOCNode Title="GetResourceByKey Method (String, Dictionary(String, Object))" Url="html/FC96176B.htm" />
           <HelpTOCNode Title="GetResourceByKey Method (String, Dictionary(String, Object), IEnumerable(String))" Url="html/CE0B5AE6.htm" />
           <HelpTOCNode Title="GetResourceByKey Method (String, String, Object)" Url="html/E614FD15.htm" />
           <HelpTOCNode Title="GetResourceByKey Method (String, String, Object, IEnumerable(String))" Url="html/88BC71B0.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetResourceCount Method " Url="html/99C0EEFF.htm" />
-        <HelpTOCNode Id="c1ebf86e-26ac-4dd8-b9d5-7e68d225617f" Title="GetResources Method " Url="html/69847CBE.htm">
+        <HelpTOCNode Id="182e694e-c152-4001-80dc-cb0196c9c706" Title="GetResources Method " Url="html/69847CBE.htm">
           <HelpTOCNode Title="GetResources Method (String)" Url="html/4BD552F3.htm" />
           <HelpTOCNode Title="GetResources Method (String, IEnumerable(String))" Url="html/AA79037A.htm" />
           <HelpTOCNode Title="GetResources Method (String, Int32)" Url="html/D7BE4A81.htm" />
@@ -276,7 +315,7 @@
           <HelpTOCNode Title="GetResources Method (String, Int32, IEnumerable(String), IEnumerable(SortingAttribute))" Url="html/1D0D33B7.htm" />
           <HelpTOCNode Title="GetResources Method (String, Int32, IEnumerable(String), String, Boolean)" Url="html/7A65BF1C.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="1c5b51af-8e9e-4077-ab0c-634c80cd172a" Title="GetResourcesAsync Method " Url="html/C3C6B48A.htm">
+        <HelpTOCNode Id="d4ec462d-80e3-446c-80fe-fd2181ca98c7" Title="GetResourcesAsync Method " Url="html/C3C6B48A.htm">
           <HelpTOCNode Title="GetResourcesAsync Method (String)" Url="html/649808B3.htm" />
           <HelpTOCNode Title="GetResourcesAsync Method (String, IEnumerable(String))" Url="html/FD32140C.htm" />
           <HelpTOCNode Title="GetResourcesAsync Method (String, Int32)" Url="html/E668140C.htm" />
@@ -294,7 +333,7 @@
           <HelpTOCNode Title="GetResourcesAsync Method (String, Int32, IEnumerable(String), String, Boolean)" Url="html/622BB140.htm" />
           <HelpTOCNode Title="GetResourcesAsync Method (String, Int32, IEnumerable(String), String, Boolean, CancellationTokenSource)" Url="html/622BB13F.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="be06167a-8cb2-43a4-945c-d3f35fabf706" Title="GetResourcesPaged Method " Url="html/10A956BE.htm">
+        <HelpTOCNode Id="0f95df6d-ea42-408f-885a-8facee05cd29" Title="GetResourcesPaged Method " Url="html/10A956BE.htm">
           <HelpTOCNode Title="GetResourcesPaged Method (String, Int32)" Url="html/7926924.htm" />
           <HelpTOCNode Title="GetResourcesPaged Method (String, Int32, IEnumerable(String))" Url="html/595F3709.htm" />
           <HelpTOCNode Title="GetResourcesPaged Method (String, Int32, IEnumerable(String), IEnumerable(SortingAttribute))" Url="html/B7303709.htm" />
@@ -302,29 +341,47 @@
         </HelpTOCNode>
         <HelpTOCNode Title="RefreshSchema Method " Url="html/52931EC4.htm" />
         <HelpTOCNode Title="SaveResource Method " Url="html/B4201C7F.htm" />
-        <HelpTOCNode Id="44b0bfd1-af7a-4375-9890-1ea39cfcd53a" Title="SaveResources Method " Url="html/44E66A3D.htm">
+        <HelpTOCNode Id="3e9a0db4-8d2b-4601-bf9c-4c361c161754" Title="SaveResources Method " Url="html/44E66A3D.htm">
           <HelpTOCNode Title="SaveResources Method (ResourceObject[])" Url="html/B4111C7F.htm" />
           <HelpTOCNode Title="SaveResources Method (IEnumerable(ResourceObject))" Url="html/B029F789.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="95fbd3b8-f6ef-4655-b2f9-5f4b9160e405" Title="SaveResourcesParallel Method " Url="html/63135259.htm">
+        <HelpTOCNode Id="e2198cfa-3c00-42a9-85de-0dd5ce22d0b8" Title="SaveResourcesParallel Method " Url="html/63135259.htm">
           <HelpTOCNode Title="SaveResourcesParallel Method (IEnumerable(ResourceObject))" Url="html/287BBBFC.htm" />
           <HelpTOCNode Title="SaveResourcesParallel Method (IEnumerable(ResourceObject), Int32)" Url="html/F5F19223.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="58ca11d6-4149-4885-9a17-955e423a544c" Title="ResourceManagementSchema Class" Url="html/961E2780.htm">
-      <HelpTOCNode Id="1b1354d3-0ab4-47ab-801d-cd1c46c34199" Title="ResourceManagementSchema Properties" Url="html/9A7D2C52.htm">
+    <HelpTOCNode Id="85d5c058-c0a2-4643-a20f-f620178bb603" Title="ResourceManagementException Class" Url="html/A5FFE2E6.htm">
+      <HelpTOCNode Id="95040915-3856-45c1-abad-1c15f27be719" Title="ResourceManagementException Constructor " Url="html/18DF9C0C.htm">
+        <HelpTOCNode Title="ResourceManagementException Constructor " Url="html/FC2CC978.htm" />
+        <HelpTOCNode Title="ResourceManagementException Constructor (String)" Url="html/50527F2.htm" />
+        <HelpTOCNode Title="ResourceManagementException Constructor (String, Exception)" Url="html/625DB357.htm" />
+        <HelpTOCNode Title="ResourceManagementException Constructor (String, String)" Url="html/BFB63EBC.htm" />
+        <HelpTOCNode Title="ResourceManagementException Constructor (String, String, Exception)" Url="html/1D0ECA21.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="67a63db0-a3de-488d-942c-231c3da30b3e" Title="ResourceManagementException Properties" Url="html/3163BC3.htm">
+        <HelpTOCNode Title="CorrelationID Property " Url="html/F55D9FCB.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ResourceManagementException Methods" Url="html/1E0C31DE.htm" />
+      <HelpTOCNode Title="ResourceManagementException Events" Url="html/7A998B47.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="71ac1617-1964-42a9-8323-fb6fc6902f33" Title="ResourceManagementSchema Class" Url="html/961E2780.htm">
+      <HelpTOCNode Id="748cef04-f329-4510-b3ad-7c94e1d8423d" Title="ResourceManagementSchema Properties" Url="html/9A7D2C52.htm">
+        <HelpTOCNode Title="AttributeNameValidationRegex Property " Url="html/BD587F6F.htm" />
         <HelpTOCNode Title="ComputedAttributes Property " Url="html/5D79B29B.htm" />
+        <HelpTOCNode Title="ObjectTypeNameValidationRegex Property " Url="html/63E076C6.htm" />
         <HelpTOCNode Title="ObjectTypes Property " Url="html/718FF3FA.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6962fcb5-25bd-4924-9802-6ccd2307f28b" Title="ResourceManagementSchema Methods" Url="html/459B50AF.htm">
+      <HelpTOCNode Id="fbe02d03-fcac-43e4-8400-1677d03524bb" Title="ResourceManagementSchema Methods" Url="html/459B50AF.htm">
         <HelpTOCNode Title="GetAttributeType Method " Url="html/E4D8AEC.htm" />
         <HelpTOCNode Title="GetObjectType Method " Url="html/499B105D.htm" />
         <HelpTOCNode Title="IsAttributeMultivalued Method " Url="html/29E6BC78.htm" />
+        <HelpTOCNode Title="ValidateAttributeName Method " Url="html/3155F127.htm" />
+        <HelpTOCNode Title="ValidateObjectTypeName Method " Url="html/A056DCF8.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7c45b797-df9e-4c02-a2fe-0dbadcf83a68" Title="ResourceNotFoundException Class" Url="html/5AEBF23E.htm">
-      <HelpTOCNode Id="bae7f3da-9690-4625-be1c-1bc5914f533c" Title="ResourceNotFoundException Constructor " Url="html/5BD7ABED.htm">
+    <HelpTOCNode Id="652e76ef-50a8-4dcd-9bab-65df4ea70d26" Title="ResourceNotFoundException Class" Url="html/5AEBF23E.htm">
+      <HelpTOCNode Id="b16a6fa8-b4d9-415b-ab1c-39734b896a95" Title="ResourceNotFoundException Constructor " Url="html/5BD7ABED.htm">
         <HelpTOCNode Title="ResourceNotFoundException Constructor " Url="html/13D490BD.htm" />
         <HelpTOCNode Title="ResourceNotFoundException Constructor (String)" Url="html/5C5831F5.htm" />
         <HelpTOCNode Title="ResourceNotFoundException Constructor (String, Exception)" Url="html/5C5831F2.htm" />
@@ -333,9 +390,9 @@
       <HelpTOCNode Title="ResourceNotFoundException Methods" Url="html/5CEAF840.htm" />
       <HelpTOCNode Title="ResourceNotFoundException Events" Url="html/FDEEF3AA.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="4d4a0fd1-4166-485b-91f0-775fd9cf74e5" Title="ResourceObject Class" Url="html/3D0170F0.htm">
+    <HelpTOCNode Id="d5b271ac-e47e-4213-aae3-9a2a54c3d85e" Title="ResourceObject Class" Url="html/3D0170F0.htm">
       <HelpTOCNode Title="ResourceObject Constructor " Url="html/66E2BBE9.htm" />
-      <HelpTOCNode Id="f3bbd7d4-9717-4fe9-8c20-71e931798947" Title="ResourceObject Properties" Url="html/37FB96BF.htm">
+      <HelpTOCNode Id="5e58dd06-da2c-422b-97c2-6f24deb9531e" Title="ResourceObject Properties" Url="html/37FB96BF.htm">
         <HelpTOCNode Title="Attributes Property " Url="html/6FCBC96A.htm" />
         <HelpTOCNode Title="DisplayName Property " Url="html/B65782EE.htm" />
         <HelpTOCNode Title="ModificationType Property " Url="html/C6760957.htm" />
@@ -344,10 +401,10 @@
         <HelpTOCNode Title="ObjectTypeName Property " Url="html/942A0E8E.htm" />
         <HelpTOCNode Title="PendingChanges Property " Url="html/66B670C.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d2f3a02e-b058-446a-b50d-f1766b25d457" Title="ResourceObject Methods" Url="html/3F7E4EC0.htm">
+      <HelpTOCNode Id="f951c561-010b-47ce-afb5-ba7a27612681" Title="ResourceObject Methods" Url="html/3F7E4EC0.htm">
         <HelpTOCNode Title="HasValue Method " Url="html/AF14D2E5.htm" />
         <HelpTOCNode Title="Refresh Method " Url="html/BBF28D9.htm" />
-        <HelpTOCNode Id="86b047a1-b7bb-4717-b0d3-8c0546a13a8f" Title="Save Method " Url="html/E5DB689C.htm">
+        <HelpTOCNode Id="ae2d33d4-c0fb-408a-8519-1b9edd795e75" Title="Save Method " Url="html/E5DB689C.htm">
           <HelpTOCNode Title="Save Method " Url="html/E32149F5.htm" />
           <HelpTOCNode Title="Save Method (Boolean)" Url="html/490825EA.htm" />
         </HelpTOCNode>
@@ -355,35 +412,35 @@
         <HelpTOCNode Title="UndoChanges Method " Url="html/432265C0.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="77767c02-92d6-4713-9684-03567c5e2163" Title="SearchResultCollection Class" Url="html/A82FAADB.htm">
-      <HelpTOCNode Id="9db85c8d-a3a9-456c-b100-7d7ec57f10fc" Title="SearchResultCollection Properties" Url="html/4833CAAB.htm">
+    <HelpTOCNode Id="c8ae8150-5ba3-4b60-bc5e-85bd52adfe26" Title="SearchResultCollection Class" Url="html/A82FAADB.htm">
+      <HelpTOCNode Id="3d2c8a9b-4205-4ee0-b10f-5d9c357559f9" Title="SearchResultCollection Properties" Url="html/4833CAAB.htm">
         <HelpTOCNode Title="Count Property " Url="html/2B8C82AD.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3253983b-2924-4388-8f45-1575fdaf679a" Title="SearchResultCollection Methods" Url="html/6CA4A2FF.htm">
+      <HelpTOCNode Id="4c2b7fd8-9862-47db-b3a0-fe5740cc664c" Title="SearchResultCollection Methods" Url="html/6CA4A2FF.htm">
         <HelpTOCNode Title="GetEnumerator Method " Url="html/4162EC12.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7a4050a9-0408-4d7a-8e29-bf1a2935ac82" Title="SearchResultCollectionAsync Class" Url="html/D3D0896E.htm">
-      <HelpTOCNode Id="816127f4-e8ec-40e6-83a0-1b7f2b194a14" Title="SearchResultCollectionAsync Properties" Url="html/51407882.htm">
+    <HelpTOCNode Id="eb2ea491-697c-4bbd-a11d-a4b641f1bc4b" Title="SearchResultCollectionAsync Class" Url="html/D3D0896E.htm">
+      <HelpTOCNode Id="0f93437e-2e51-4256-b685-f779a3ddcd45" Title="SearchResultCollectionAsync Properties" Url="html/51407882.htm">
         <HelpTOCNode Title="Count Property " Url="html/AA17A97C.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1bec332e-c0d4-43fb-8853-729999058dc5" Title="SearchResultCollectionAsync Methods" Url="html/FC3C387.htm">
+      <HelpTOCNode Id="dfcd0729-94ee-4546-85c5-2335b337a057" Title="SearchResultCollectionAsync Methods" Url="html/FC3C387.htm">
         <HelpTOCNode Title="GetEnumerator Method " Url="html/26C94AA3.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4c74c55b-5c0c-47ae-a2fc-3e2fed092fc5" Title="SearchResultPager Class" Url="html/10A4FA1.htm">
-      <HelpTOCNode Id="071076bd-48e9-4c1a-a8b0-1ea52d72ccb5" Title="SearchResultPager Properties" Url="html/E8720DF9.htm">
+    <HelpTOCNode Id="9c01f7a8-912c-47db-9ad9-31a6bed8eb29" Title="SearchResultPager Class" Url="html/10A4FA1.htm">
+      <HelpTOCNode Id="a5f3c5a9-2cc8-400b-82f4-d3fafe506f3d" Title="SearchResultPager Properties" Url="html/E8720DF9.htm">
         <HelpTOCNode Title="CurrentIndex Property " Url="html/19DFB891.htm" />
         <HelpTOCNode Title="HasMoreItems Property " Url="html/C0ADADBF.htm" />
         <HelpTOCNode Title="PageSize Property " Url="html/1359BED2.htm" />
         <HelpTOCNode Title="TotalCount Property " Url="html/7F6F4B.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6a6124b0-7c30-4dfe-bfcb-96fa0f5f4545" Title="SearchResultPager Methods" Url="html/EC552B37.htm">
+      <HelpTOCNode Id="3fd0d242-26d5-4d11-95b0-47d642930d9f" Title="SearchResultPager Methods" Url="html/EC552B37.htm">
         <HelpTOCNode Title="GetNextPage Method " Url="html/C731B9BF.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e40af9c1-d145-411b-8f15-d7ce4f36ff95" Title="TooManyResultsException Class" Url="html/2750F34.htm">
-      <HelpTOCNode Id="a8066501-b198-463a-bc23-a2e5ea270f81" Title="TooManyResultsException Constructor " Url="html/513BD43E.htm">
+    <HelpTOCNode Id="0ffc8f19-daf1-4b98-8dca-639336df149f" Title="TooManyResultsException Class" Url="html/2750F34.htm">
+      <HelpTOCNode Id="52928163-4fe7-48eb-8aa2-2988a9b3d1a1" Title="TooManyResultsException Constructor " Url="html/513BD43E.htm">
         <HelpTOCNode Title="TooManyResultsException Constructor " Url="html/401CCF6.htm" />
         <HelpTOCNode Title="TooManyResultsException Constructor (String)" Url="html/A36E9148.htm" />
         <HelpTOCNode Title="TooManyResultsException Constructor (String, Exception)" Url="html/8B64EF19.htm" />
@@ -392,8 +449,8 @@
       <HelpTOCNode Title="TooManyResultsException Methods" Url="html/D093E743.htm" />
       <HelpTOCNode Title="TooManyResultsException Events" Url="html/426FEB75.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="2350e41e-a382-4818-87c8-8662b565f3b3" Title="UnsupportedDataTypeException Class" Url="html/B4FE6AA4.htm">
-      <HelpTOCNode Id="025190c8-4737-4927-ace7-f8e7bbdecb55" Title="UnsupportedDataTypeException Constructor " Url="html/A98C2490.htm">
+    <HelpTOCNode Id="b0c093ea-d8db-4d4e-ba3c-9a0ad0b4c121" Title="UnsupportedDataTypeException Class" Url="html/B4FE6AA4.htm">
+      <HelpTOCNode Id="62ea758b-82bf-4013-a11e-34eda971ea8d" Title="UnsupportedDataTypeException Constructor " Url="html/A98C2490.htm">
         <HelpTOCNode Title="UnsupportedDataTypeException Constructor " Url="html/BE3D25CC.htm" />
         <HelpTOCNode Title="UnsupportedDataTypeException Constructor (String)" Url="html/E3A35116.htm" />
         <HelpTOCNode Title="UnsupportedDataTypeException Constructor (String, Exception)" Url="html/583E5116.htm" />
@@ -404,48 +461,58 @@
       <HelpTOCNode Title="UnsupportedDataTypeException Methods" Url="html/4A86E15A.htm" />
       <HelpTOCNode Title="UnsupportedDataTypeException Events" Url="html/2C8C08EB.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="1cb785d8-e190-465b-9bfe-d0107c974fc4" Title="XPathDereferencedExpression Class" Url="html/D35DF648.htm">
-      <HelpTOCNode Id="e9834d0c-aa7f-4a6a-9891-1d9f834a4c9f" Title="XPathDereferencedExpression Constructor " Url="html/8B1C660C.htm">
+    <HelpTOCNode Id="855cb321-db6e-45bd-92b7-9eb1b53cb268" Title="UnwillingToPerformException Class" Url="html/80EB5218.htm">
+      <HelpTOCNode Title="UnwillingToPerformException Constructor " Url="html/E04A32A0.htm" />
+      <HelpTOCNode Id="00e00f9a-1572-440d-8a18-1ddd7e85cd90" Title="UnwillingToPerformException Properties" Url="html/3BC82E95.htm">
+        <HelpTOCNode Title="AdditionalTextDetails Property " Url="html/D687D8CD.htm" />
+        <HelpTOCNode Title="FailureMessage Property " Url="html/F60641C7.htm" />
+        <HelpTOCNode Title="FailureSource Property " Url="html/60CFCBE4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="UnwillingToPerformException Methods" Url="html/1FD6D8B8.htm" />
+      <HelpTOCNode Title="UnwillingToPerformException Events" Url="html/7C578C5.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="73e6ab56-c40e-4db9-aac1-4a7cb415eac6" Title="XPathDereferencedExpression Class" Url="html/D35DF648.htm">
+      <HelpTOCNode Id="3232934a-8049-44d9-858c-d5573b9ec299" Title="XPathDereferencedExpression Constructor " Url="html/8B1C660C.htm">
         <HelpTOCNode Title="XPathDereferencedExpression Constructor (String, String, IXPathQueryObject)" Url="html/724FE6F.htm" />
         <HelpTOCNode Title="XPathDereferencedExpression Constructor (String, String, IXPathQueryObject, Boolean)" Url="html/44AC7D4E.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4a865aac-2b76-4407-be4e-766c6a302231" Title="XPathDereferencedExpression Properties" Url="html/F06EBB2E.htm">
+      <HelpTOCNode Id="cc6ad1ea-0ce2-4602-922b-62c0b02a16b0" Title="XPathDereferencedExpression Properties" Url="html/F06EBB2E.htm">
         <HelpTOCNode Title="DereferenceAttribute Property " Url="html/B91DBFD6.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="fce061f2-973e-4725-95a9-e274fae7f9ba" Title="XPathDereferencedExpression Methods" Url="html/453E0294.htm">
+      <HelpTOCNode Id="e36dcf56-82be-4882-b6c1-3987f16eb492" Title="XPathDereferencedExpression Methods" Url="html/453E0294.htm">
         <HelpTOCNode Title="BuildExpression Method " Url="html/5EA0DE7E.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="68c466ed-db20-4313-ad1f-9b18f933a97e" Title="XPathExpression Class" Url="html/ED833B86.htm">
-      <HelpTOCNode Id="88c1ba39-7a09-4544-b626-7d811b8c135a" Title="XPathExpression Constructor " Url="html/2031AF29.htm">
+    <HelpTOCNode Id="367ea15a-b644-4881-8c54-76e0cc2deedb" Title="XPathExpression Class" Url="html/ED833B86.htm">
+      <HelpTOCNode Id="cef2dc9b-00a4-4df8-a178-33c627bbc75d" Title="XPathExpression Constructor " Url="html/2031AF29.htm">
         <HelpTOCNode Title="XPathExpression Constructor " Url="html/CCD52A5.htm" />
         <HelpTOCNode Title="XPathExpression Constructor (String)" Url="html/6AEA668D.htm" />
         <HelpTOCNode Title="XPathExpression Constructor (String, IXPathQueryObject)" Url="html/52E0C45E.htm" />
         <HelpTOCNode Title="XPathExpression Constructor (String, IXPathQueryObject, Boolean)" Url="html/B0394FC3.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="390f8356-3738-4437-94c3-f8573ccb06b4" Title="XPathExpression Properties" Url="html/C098F149.htm">
+      <HelpTOCNode Id="650d7ef9-8617-466c-a5d5-e073dbe4119a" Title="XPathExpression Properties" Url="html/C098F149.htm">
         <HelpTOCNode Title="ObjectType Property " Url="html/4C7C91D1.htm" />
         <HelpTOCNode Title="Query Property " Url="html/7A74772D.htm" />
         <HelpTOCNode Title="WrapFilterXml Property " Url="html/D5D4588B.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b633d87c-3e7e-446a-8abd-ceb846857111" Title="XPathExpression Methods" Url="html/F11397AD.htm">
+      <HelpTOCNode Id="dd1f79fe-ba88-41b5-981b-86fea4ee945c" Title="XPathExpression Methods" Url="html/F11397AD.htm">
         <HelpTOCNode Title="BuildExpression Method " Url="html/2C528801.htm" />
-        <HelpTOCNode Id="0dffc229-9632-430e-a3e5-39b3fb959427" Title="ToString Method " Url="html/414DF234.htm">
+        <HelpTOCNode Id="dc0c5a76-533c-4985-a1a9-d2267911c466" Title="ToString Method " Url="html/414DF234.htm">
           <HelpTOCNode Title="ToString Method " Url="html/392ECB7A.htm" />
           <HelpTOCNode Title="ToString Method (Boolean)" Url="html/BFB0AFE6.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4ff385de-4e38-4015-ae80-b9deaf710df3" Title="XPathFilterBuilder Class" Url="html/408FCB22.htm">
+    <HelpTOCNode Id="be795107-fd65-41cc-9e60-dd314cc32f8e" Title="XPathFilterBuilder Class" Url="html/408FCB22.htm">
       <HelpTOCNode Title="XPathFilterBuilder Constructor " Url="html/FB84E5A5.htm" />
-      <HelpTOCNode Id="6ace8e9e-8e97-4de7-bf03-65769866d546" Title="XPathFilterBuilder Methods" Url="html/82CE1026.htm">
-        <HelpTOCNode Id="41a8b0a2-843e-4f42-a10b-1bf267e28b86" Title="CreateDereferenceFilter Method " Url="html/480CFF00.htm">
+      <HelpTOCNode Id="94e08fe1-833e-4cbc-90b1-a4ff2089ef68" Title="XPathFilterBuilder Methods" Url="html/82CE1026.htm">
+        <HelpTOCNode Id="2cb2feab-f7f8-4513-87f0-a42dadb19396" Title="CreateDereferenceFilter Method " Url="html/480CFF00.htm">
           <HelpTOCNode Title="CreateDereferenceFilter Method (String, IXPathQueryObject, String)" Url="html/4AF79B9F.htm" />
           <HelpTOCNode Title="CreateDereferenceFilter Method (String, String, Object, String)" Url="html/61C19B9F.htm" />
           <HelpTOCNode Title="CreateDereferenceFilter Method (String, AttributeValuePairCollection, ComparisonOperator, GroupOperator, String)" Url="html/B29F4045.htm" />
           <HelpTOCNode Title="CreateDereferenceFilter Method (String, Dictionary(String, Object), ComparisonOperator, GroupOperator, String)" Url="html/D65C9B9F.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a5ce75ed-b26f-48a2-a54f-47d5bea07f0a" Title="CreateFilter Method " Url="html/18ECDF6A.htm">
+        <HelpTOCNode Id="2126ad65-7773-43c1-9b3e-b385e6d08fa6" Title="CreateFilter Method " Url="html/18ECDF6A.htm">
           <HelpTOCNode Title="CreateFilter Method (String, IXPathQueryObject)" Url="html/1258002B.htm" />
           <HelpTOCNode Title="CreateFilter Method (String, String, Object)" Url="html/1258002E.htm" />
           <HelpTOCNode Title="CreateFilter Method (String, AttributeValuePairCollection, ComparisonOperator, GroupOperator)" Url="html/16B9CE23.htm" />
@@ -455,26 +522,26 @@
         <HelpTOCNode Title="CreateUnionFilter Method " Url="html/84B5AE9C.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="acfe605a-b7f7-4061-8424-e61b4350cd78" Title="XPathQuery Class" Url="html/6CA6EE3D.htm">
-      <HelpTOCNode Id="e2c82041-d64a-4a7f-b6d5-7ebe60eeb8fa" Title="XPathQuery Constructor " Url="html/E6343516.htm">
+    <HelpTOCNode Id="48e3cf4c-e091-4008-8fc2-8261425f5644" Title="XPathQuery Class" Url="html/6CA6EE3D.htm">
+      <HelpTOCNode Id="f3a19abd-0a62-4a34-b73f-503d0c5fa1ad" Title="XPathQuery Constructor " Url="html/E6343516.htm">
         <HelpTOCNode Title="XPathQuery Constructor (String, ComparisonOperator)" Url="html/7E139209.htm" />
         <HelpTOCNode Title="XPathQuery Constructor (String, ComparisonOperator, Object)" Url="html/60E71493.htm" />
         <HelpTOCNode Title="XPathQuery Constructor (String, ComparisonOperator, Object, Boolean)" Url="html/60E81493.htm" />
         <HelpTOCNode Title="XPathQuery Constructor (String, ComparisonOperator, Object, Boolean, AttributeType, Boolean)" Url="html/60E91493.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3906c409-9b48-4e8b-bd01-a27dfab7748b" Title="XPathQuery Properties" Url="html/8C9B206D.htm">
+      <HelpTOCNode Id="95494a8a-665e-4da4-98fa-d0c2ce3470c5" Title="XPathQuery Properties" Url="html/8C9B206D.htm">
         <HelpTOCNode Title="AttributeName Property " Url="html/68C0FE6C.htm" />
         <HelpTOCNode Title="Negate Property " Url="html/C77CC1B6.htm" />
         <HelpTOCNode Title="Operator Property " Url="html/74003E1E.htm" />
         <HelpTOCNode Title="Value Property " Url="html/39BAA76D.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e1d4c9e6-e973-4338-a7e8-f41780d3455f" Title="XPathQuery Methods" Url="html/D0CB977.htm">
+      <HelpTOCNode Id="8844611c-2015-421c-b488-8165ee9074ef" Title="XPathQuery Methods" Url="html/D0CB977.htm">
         <HelpTOCNode Title="BuildQueryString Method " Url="html/B9B5BDC1.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/4E427AD2.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="472828ef-89b8-421c-a40a-0d68895d9683" Title="XPathQueryGroup Class" Url="html/3D9AEE8D.htm">
-      <HelpTOCNode Id="f8097ea7-596d-4261-942f-4dda34b0cc36" Title="XPathQueryGroup Constructor " Url="html/13B66BE8.htm">
+    <HelpTOCNode Id="fb230990-74d2-406b-8889-357c59574efb" Title="XPathQueryGroup Class" Url="html/3D9AEE8D.htm">
+      <HelpTOCNode Id="e35ee976-4a00-440c-81a9-894a983a2df3" Title="XPathQueryGroup Constructor " Url="html/13B66BE8.htm">
         <HelpTOCNode Title="XPathQueryGroup Constructor " Url="html/EFBA6AB6.htm" />
         <HelpTOCNode Title="XPathQueryGroup Constructor (GroupOperator)" Url="html/58BAF4C0.htm" />
         <HelpTOCNode Title="XPathQueryGroup Constructor (GroupOperator, IXPathQueryObject[])" Url="html/136C0B8A.htm" />
@@ -482,12 +549,12 @@
         <HelpTOCNode Title="XPathQueryGroup Constructor (GroupOperator, AttributeValuePairCollection, ComparisonOperator)" Url="html/B6138025.htm" />
         <HelpTOCNode Title="XPathQueryGroup Constructor (GroupOperator, Dictionary(String, Object), ComparisonOperator)" Url="html/86003BC7.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="668050d3-6749-4c2a-b4be-659156990f7e" Title="XPathQueryGroup Properties" Url="html/A10641DD.htm">
+      <HelpTOCNode Id="2ca6ea12-c5db-42a6-aeb8-2d6392dc1a11" Title="XPathQueryGroup Properties" Url="html/A10641DD.htm">
         <HelpTOCNode Title="GroupOperator Property " Url="html/F5E293CC.htm" />
         <HelpTOCNode Title="Negate Property " Url="html/F1D50844.htm" />
         <HelpTOCNode Title="Queries Property " Url="html/3217B178.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="98b82877-0616-4c01-ab4c-8ea5b0483c2b" Title="XPathQueryGroup Methods" Url="html/17F07CF4.htm">
+      <HelpTOCNode Id="66553490-49b6-49c3-840d-0003dd93773e" Title="XPathQueryGroup Methods" Url="html/17F07CF4.htm">
         <HelpTOCNode Title="BuildQueryString Method " Url="html/5E077696.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/20CAD07F.htm" />
       </HelpTOCNode>
