@@ -57,6 +57,7 @@
   <HelpKINode Title="AttributeNames.EndpointAddress field" Url="html/50607464.htm" />
   <HelpKINode Title="AttributeNames.ExpectedRulesList field" Url="html/EBB2C1EA.htm" />
   <HelpKINode Title="AttributeNames.ExpirationTime field" Url="html/CD07E598.htm" />
+  <HelpKINode Title="AttributeNames.Locale field" Url="html/F51C9294.htm" />
   <HelpKINode Title="AttributeNames.Localizable field" Url="html/51CF70BA.htm" />
   <HelpKINode Title="AttributeNames.Member field" Url="html/1B1A34DC.htm" />
   <HelpKINode Title="AttributeNames.Multivalued field" Url="html/CAC6124C.htm" />
@@ -379,6 +380,8 @@
   <HelpKINode Title="Lithnet.ResourceManagement.Client.XPathFilterBuilder class" Url="html/408FCB22.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.XPathQuery class" Url="html/6CA6EE3D.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.XPathQueryGroup class" Url="html/3D9AEE8D.htm" />
+  <HelpKINode Title="Locale field" Url="html/F51C9294.htm" />
+  <HelpKINode Title="Locale property" Url="html/343BA5.htm" />
   <HelpKINode Title="Localizable field" Url="html/51CF70BA.htm" />
   <HelpKINode Title="ManagementPolicyRule field" Url="html/4B07DCA7.htm" />
   <HelpKINode Title="Member field" Url="html/1B1A34DC.htm" />
@@ -526,7 +529,7 @@
   <HelpKINode Title="ResourceManagementClient.GetResourcesPaged method" Url="html/10A956BE.htm" />
   <HelpKINode Title="ResourceManagementClient.RefreshSchema method" Url="html/52931EC4.htm" />
   <HelpKINode Title="ResourceManagementClient.ResourceManagementClient constructor" Url="html/3C965CAE.htm" />
-  <HelpKINode Title="ResourceManagementClient.SaveResource method" Url="html/B4201C7F.htm" />
+  <HelpKINode Title="ResourceManagementClient.SaveResource method" Url="html/D72C8B62.htm" />
   <HelpKINode Title="ResourceManagementClient.SaveResources method" Url="html/44E66A3D.htm" />
   <HelpKINode Title="ResourceManagementClient.SaveResourcesParallel method" Url="html/63135259.htm" />
   <HelpKINode Title="ResourceManagementException class">
@@ -573,6 +576,7 @@
   <HelpKINode Title="ResourceObject.Attributes property" Url="html/6FCBC96A.htm" />
   <HelpKINode Title="ResourceObject.DisplayName property" Url="html/B65782EE.htm" />
   <HelpKINode Title="ResourceObject.HasValue method" Url="html/AF14D2E5.htm" />
+  <HelpKINode Title="ResourceObject.Locale property" Url="html/343BA5.htm" />
   <HelpKINode Title="ResourceObject.ModificationType property" Url="html/C6760957.htm" />
   <HelpKINode Title="ResourceObject.ObjectID property" Url="html/D2AD31AB.htm" />
   <HelpKINode Title="ResourceObject.ObjectType property" Url="html/222B700A.htm" />
@@ -585,7 +589,7 @@
   <HelpKINode Title="ResourceObject.UndoChanges method" Url="html/432265C0.htm" />
   <HelpKINode Title="ResourceTime field" Url="html/DDF78313.htm" />
   <HelpKINode Title="Save method" Url="html/E5DB689C.htm" />
-  <HelpKINode Title="SaveResource method" Url="html/B4201C7F.htm" />
+  <HelpKINode Title="SaveResource method" Url="html/D72C8B62.htm" />
   <HelpKINode Title="SaveResources method" Url="html/44E66A3D.htm" />
   <HelpKINode Title="SaveResourcesParallel method" Url="html/63135259.htm" />
   <HelpKINode Title="SearchResultCollection class">
