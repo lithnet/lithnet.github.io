@@ -1,5 +1,6 @@
 | project | stats |
 | --- | --- |
+| [pan-ra-proxy](https://github.com/lithnet/pan-ra-proxy) | ![](https://img.shields.io/github/downloads/lithnet/pan-ra-proxy/total.svg?maxAge=2592000) |
 | [miis-powershell](https://github.com/lithnet/miis-powershell) | ![](https://img.shields.io/github/downloads/lithnet/miis-powershell/total.svg?maxAge=2592000) |
 | [miis-autosync](https://github.com/lithnet/miis-autosync) | ![](https://img.shields.io/github/downloads/lithnet/miis-autosync/total.svg?maxAge=2592000) |
 | [miis-client](https://github.com/lithnet/miis-client) | ![](https://img.shields.io/github/downloads/lithnet/miis-client/total.svg?maxAge=2592000) |
