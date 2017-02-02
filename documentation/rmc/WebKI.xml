@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
   <HelpKINode Title="AccountName field" Url="html/CB70D7C9.htm" />
+  <HelpKINode Title="Add enumeration member" Url="html/F098EBC9.htm" />
   <HelpKINode Title="Add method" Url="html/A5F89059.htm" />
   <HelpKINode Title="AdditionalTextDetails property">
     <HelpKINode Title="AttributeRepresentationFailureException.AdditionalTextDetails Property " Url="html/614AE0DA.htm" />
@@ -8,7 +9,12 @@
     <HelpKINode Title="PermissionDeniedException.AdditionalTextDetails Property " Url="html/B8D584DB.htm" />
     <HelpKINode Title="UnwillingToPerformException.AdditionalTextDetails Property " Url="html/D687D8CD.htm" />
   </HelpKINode>
-  <HelpKINode Title="AddValue method" Url="html/D0A806D5.htm" />
+  <HelpKINode Title="AddValue method">
+    <HelpKINode Title="AttributeValue.AddValue Method " Url="html/D0A806D5.htm" />
+    <HelpKINode Title="Extensions.AddValue Method " Url="html/C4260120.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AllAttributes enumeration member" Url="html/F70F94B0.htm" />
+  <HelpKINode Title="AllMultivaluedAttributes enumeration member" Url="html/F70F94B0.htm" />
   <HelpKINode Title="And enumeration member" Url="html/2C632699.htm" />
   <HelpKINode Title="Approval field" Url="html/6827E3F4.htm" />
   <HelpKINode Title="Approval property" Url="html/35C3DF68.htm" />
@@ -30,6 +36,8 @@
   <HelpKINode Title="Approve method" Url="html/C2A38E3F.htm" />
   <HelpKINode Title="Approved enumeration member" Url="html/6AF410B7.htm" />
   <HelpKINode Title="Approver field" Url="html/F3E1FDFE.htm" />
+  <HelpKINode Title="ArrayHandling property" Url="html/532E4B16.htm" />
+  <HelpKINode Title="ArraySerializationHandling enumeration" Url="html/F70F94B0.htm" />
   <HelpKINode Title="Attribute property" Url="html/5304DA20.htm" />
   <HelpKINode Title="AttributeFailureCode property" Url="html/88DB395.htm" />
   <HelpKINode Title="AttributeName property">
@@ -66,12 +74,14 @@
   <HelpKINode Title="AttributeNames.ObjectID field" Url="html/DEF4BD79.htm" />
   <HelpKINode Title="AttributeNames.ObjectSid field" Url="html/75C74E30.htm" />
   <HelpKINode Title="AttributeNames.ObjectType field" Url="html/50B2B2A7.htm" />
+  <HelpKINode Title="AttributeNames.RequestParameter field" Url="html/E8156417.htm" />
   <HelpKINode Title="AttributeNames.Required field" Url="html/46ACD0C6.htm" />
   <HelpKINode Title="AttributeNames.ResourceTime field" Url="html/DDF78313.htm" />
   <HelpKINode Title="AttributeNames.StringRegex field" Url="html/52E9A8AE.htm" />
   <HelpKINode Title="AttributeNames.UsageKeyword field" Url="html/3E31A51D.htm" />
   <HelpKINode Title="AttributeNames.WorkflowInstance field" Url="html/13CE40B3.htm" />
   <HelpKINode Title="AttributeNameValidationRegex property" Url="html/BD587F6F.htm" />
+  <HelpKINode Title="AttributePermission enumeration" Url="html/F098EBC9.htm" />
   <HelpKINode Title="AttributeRepresentationFailureException class">
     <HelpKINode Title="AttributeRepresentationFailureException Class" Url="html/4DAF2F39.htm" />
     <HelpKINode Title="about AttributeRepresentationFailureException class" Url="html/4DAF2F39.htm" />
@@ -112,6 +122,7 @@
   <HelpKINode Title="AttributeValue class">
     <HelpKINode Title="AttributeValue Class" Url="html/349B0FA5.htm" />
     <HelpKINode Title="about AttributeValue class" Url="html/349B0FA5.htm" />
+    <HelpKINode Title="constructor" Url="html/AD54F9D5.htm" />
     <HelpKINode Title="methods" Url="html/4D28D0EC.htm" />
     <HelpKINode Title="operators" Url="html/99124FA3.htm" />
     <HelpKINode Title="properties" Url="html/C319B95.htm" />
@@ -120,6 +131,7 @@
   <HelpKINode Title="AttributeValue.AddValue method" Url="html/D0A806D5.htm" />
   <HelpKINode Title="AttributeValue.Attribute property" Url="html/5304DA20.htm" />
   <HelpKINode Title="AttributeValue.AttributeName property" Url="html/708EBBDA.htm" />
+  <HelpKINode Title="AttributeValue.AttributeValue constructor" Url="html/AD54F9D5.htm" />
   <HelpKINode Title="AttributeValue.BinaryValue property" Url="html/6F348F0B.htm" />
   <HelpKINode Title="AttributeValue.BinaryValues property" Url="html/3D385583.htm" />
   <HelpKINode Title="AttributeValue.BooleanValue property" Url="html/C6D3EB8A.htm" />
@@ -133,6 +145,7 @@
   <HelpKINode Title="AttributeValue.IntegerValue property" Url="html/1160DC89.htm" />
   <HelpKINode Title="AttributeValue.IntegerValues property" Url="html/69DFDC89.htm" />
   <HelpKINode Title="AttributeValue.IsNull property" Url="html/3AD3237B.htm" />
+  <HelpKINode Title="AttributeValue.PermissionHint property" Url="html/3EDEE22.htm" />
   <HelpKINode Title="AttributeValue.ReferenceValue property" Url="html/44F8F8E3.htm" />
   <HelpKINode Title="AttributeValue.ReferenceValues property" Url="html/456BF8E3.htm" />
   <HelpKINode Title="AttributeValue.RemoveValue method" Url="html/2A330053.htm" />
@@ -181,6 +194,19 @@
   <HelpKINode Title="AttributeValuePairCollection.AttributeValuePairCollection constructor" Url="html/AD9AEDEE.htm" />
   <HelpKINode Title="AttributeValuePairCollection.GetEnumerator method" Url="html/7059017B.htm" />
   <HelpKINode Title="AttributeValuePairCollection.Remove method" Url="html/7CAF26C7.htm" />
+  <HelpKINode Title="AttributeValuePairs enumeration member" Url="html/711C5DBD.htm" />
+  <HelpKINode Title="AttributeValueSerializationHandling enumeration" Url="html/FDEAEFFC.htm" />
+  <HelpKINode Title="AuthorizationRequiredException class">
+    <HelpKINode Title="AuthorizationRequiredException Class" Url="html/24D4D518.htm" />
+    <HelpKINode Title="about AuthorizationRequiredException class" Url="html/24D4D518.htm" />
+    <HelpKINode Title="constructor" Url="html/D406A58C.htm" />
+    <HelpKINode Title="events" Url="html/9587DDC6.htm" />
+    <HelpKINode Title="methods" Url="html/AD635D7F.htm" />
+    <HelpKINode Title="properties" Url="html/9FB400F6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AuthorizationRequiredException.AuthorizationRequiredException constructor" Url="html/D406A58C.htm" />
+  <HelpKINode Title="AuthorizationRequiredException.Endpoint property" Url="html/E865F815.htm" />
+  <HelpKINode Title="AuthorizationRequiredException.ResourceReference property" Url="html/FE5D643E.htm" />
   <HelpKINode Title="Binary enumeration member" Url="html/5816FE1D.htm" />
   <HelpKINode Title="BinaryValue property" Url="html/6F348F0B.htm" />
   <HelpKINode Title="BinaryValues property" Url="html/3D385583.htm" />
@@ -203,13 +229,17 @@
   <HelpKINode Title="ComputedAttributes property" Url="html/5D79B29B.htm" />
   <HelpKINode Title="Contains enumeration member" Url="html/B5F22A93.htm" />
   <HelpKINode Title="ContainsAttribute method" Url="html/F0357CB9.htm" />
+  <HelpKINode Title="ConvertToString enumeration member" Url="html/FDEAEFFC.htm" />
   <HelpKINode Title="CorrelationID property" Url="html/F55D9FCB.htm" />
   <HelpKINode Title="Count property">
     <HelpKINode Title="ISearchResultCollection.Count Property " Url="html/AF06E725.htm" />
     <HelpKINode Title="SearchResultCollection.Count Property " Url="html/2B8C82AD.htm" />
     <HelpKINode Title="SearchResultCollectionAsync.Count Property " Url="html/AA17A97C.htm" />
   </HelpKINode>
-  <HelpKINode Title="Create enumeration member" Url="html/EE93733B.htm" />
+  <HelpKINode Title="Create enumeration member">
+    <HelpKINode Title="AttributePermission Enumeration" Url="html/F098EBC9.htm" />
+    <HelpKINode Title="OperationType Enumeration" Url="html/EE93733B.htm" />
+  </HelpKINode>
   <HelpKINode Title="CreateDereferenceFilter method" Url="html/480CFF00.htm" />
   <HelpKINode Title="CreateFilter method" Url="html/18ECDF6A.htm" />
   <HelpKINode Title="CreateResource method" Url="html/D700DA02.htm" />
@@ -222,7 +252,11 @@
   <HelpKINode Title="DateTimeValue property" Url="html/77F5C69D.htm" />
   <HelpKINode Title="DateTimeValues property" Url="html/9229D783.htm" />
   <HelpKINode Title="Decision property" Url="html/EA0FD7C7.htm" />
-  <HelpKINode Title="Delete enumeration member" Url="html/EE93733B.htm" />
+  <HelpKINode Title="Default enumeration member" Url="html/FDEAEFFC.htm" />
+  <HelpKINode Title="Delete enumeration member">
+    <HelpKINode Title="AttributePermission Enumeration" Url="html/F098EBC9.htm" />
+    <HelpKINode Title="OperationType Enumeration" Url="html/EE93733B.htm" />
+  </HelpKINode>
   <HelpKINode Title="DeletedTime field" Url="html/275A1412.htm" />
   <HelpKINode Title="DeleteResource method" Url="html/6A86057B.htm" />
   <HelpKINode Title="DeleteResources method" Url="html/525D1250.htm" />
@@ -240,6 +274,7 @@
     <HelpKINode Title="ResourceObject.DisplayName Property " Url="html/B65782EE.htm" />
   </HelpKINode>
   <HelpKINode Title="Domain field" Url="html/B21B928F.htm" />
+  <HelpKINode Title="Endpoint property" Url="html/E865F815.htm" />
   <HelpKINode Title="EndpointAddress field" Url="html/50607464.htm" />
   <HelpKINode Title="EndsWith enumeration member" Url="html/B5F22A93.htm" />
   <HelpKINode Title="Equality operator" Url="html/487D5711.htm" />
@@ -253,6 +288,10 @@
     <HelpKINode Title="about Extensions class" Url="html/E3339C09.htm" />
     <HelpKINode Title="methods" Url="html/BE5DBA8C.htm" />
   </HelpKINode>
+  <HelpKINode Title="Extensions.AddValue method" Url="html/C4260120.htm" />
+  <HelpKINode Title="Extensions.HasValue method" Url="html/9E0DFFEB.htm" />
+  <HelpKINode Title="Extensions.RemoveValue method" Url="html/C0EA3B9F.htm" />
+  <HelpKINode Title="Extensions.SetValue method" Url="html/577C0067.htm" />
   <HelpKINode Title="Extensions.ToResourceManagementServiceDateFormat method" Url="html/889EA5B5.htm" />
   <HelpKINode Title="FailureMessage property">
     <HelpKINode Title="AttributeRepresentationFailureException.FailureMessage Property " Url="html/F7543FC2.htm" />
@@ -264,6 +303,7 @@
     <HelpKINode Title="PermissionDeniedException.FailureSource Property " Url="html/6C759332.htm" />
     <HelpKINode Title="UnwillingToPerformException.FailureSource Property " Url="html/60CFCBE4.htm" />
   </HelpKINode>
+  <HelpKINode Title="FixedStructure enumeration member" Url="html/711C5DBD.htm" />
   <HelpKINode Title="GetApprovals method" Url="html/FD58FCD1.htm" />
   <HelpKINode Title="GetAttributeType method" Url="html/E4D8AEC.htm" />
   <HelpKINode Title="GetEnumerator method">
@@ -287,10 +327,14 @@
   <HelpKINode Title="GroupOperator enumeration" Url="html/2C632699.htm" />
   <HelpKINode Title="GroupOperator property" Url="html/F5E293CC.htm" />
   <HelpKINode Title="HasMoreItems property" Url="html/C0ADADBF.htm" />
+  <HelpKINode Title="HasPermissionHints property" Url="html/6904C5D8.htm" />
   <HelpKINode Title="HasValue method">
     <HelpKINode Title="AttributeValue.HasValue Method " Url="html/2618063A.htm" />
+    <HelpKINode Title="Extensions.HasValue Method " Url="html/9E0DFFEB.htm" />
     <HelpKINode Title="ResourceObject.HasValue Method " Url="html/AF14D2E5.htm" />
   </HelpKINode>
+  <HelpKINode Title="IncludeNullValues property" Url="html/271D9A8C.htm" />
+  <HelpKINode Title="IncludePermissionHints property" Url="html/C578D0BE.htm" />
   <HelpKINode Title="Inequality operator" Url="html/B4B60D6F.htm" />
   <HelpKINode Title="Integer enumeration member" Url="html/5816FE1D.htm" />
   <HelpKINode Title="IntegerValue property" Url="html/1160DC89.htm" />
@@ -340,7 +384,9 @@
   <HelpKINode Title="Lithnet.ResourceManagement.Client namespace" Url="html/945180D1.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.ApprovalResponse class" Url="html/179E159A.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.ApprovalStatus enumeration" Url="html/6AF410B7.htm" />
+  <HelpKINode Title="Lithnet.ResourceManagement.Client.ArraySerializationHandling enumeration" Url="html/F70F94B0.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.AttributeNames class" Url="html/BC1E0F95.htm" />
+  <HelpKINode Title="Lithnet.ResourceManagement.Client.AttributePermission enumeration" Url="html/F098EBC9.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.AttributeRepresentationFailureException class" Url="html/4DAF2F39.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.AttributeType enumeration" Url="html/5816FE1D.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.AttributeTypeDefinition class" Url="html/C00E11DF.htm" />
@@ -349,6 +395,8 @@
   <HelpKINode Title="Lithnet.ResourceManagement.Client.AttributeValueCollection class" Url="html/23B64F77.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.AttributeValuePair class" Url="html/F8914043.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.AttributeValuePairCollection class" Url="html/E55A0DB7.htm" />
+  <HelpKINode Title="Lithnet.ResourceManagement.Client.AttributeValueSerializationHandling enumeration" Url="html/FDEAEFFC.htm" />
+  <HelpKINode Title="Lithnet.ResourceManagement.Client.AuthorizationRequiredException class" Url="html/24D4D518.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.ComparisonOperator enumeration" Url="html/B5F22A93.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.Extensions class" Url="html/E3339C09.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.GroupOperator enumeration" Url="html/2C632699.htm" />
@@ -369,6 +417,8 @@
   <HelpKINode Title="Lithnet.ResourceManagement.Client.ResourceManagementSchema class" Url="html/961E2780.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.ResourceNotFoundException class" Url="html/5AEBF23E.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.ResourceObject class" Url="html/3D0170F0.htm" />
+  <HelpKINode Title="Lithnet.ResourceManagement.Client.ResourceSerializationHandling enumeration" Url="html/711C5DBD.htm" />
+  <HelpKINode Title="Lithnet.ResourceManagement.Client.ResourceSerializationSettings structure" Url="html/985CAB36.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.SearchResultCollection class" Url="html/A82FAADB.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.SearchResultCollectionAsync class" Url="html/D3D0896E.htm" />
   <HelpKINode Title="Lithnet.ResourceManagement.Client.SearchResultPager class" Url="html/10A4FA1.htm" />
@@ -399,6 +449,7 @@
   <HelpKINode Title="MessageRepresentationFailureException.MessageFailureCode property" Url="html/48706C1D.htm" />
   <HelpKINode Title="MessageRepresentationFailureException.MessageRepresentationFailureException constructor" Url="html/9558B654.htm" />
   <HelpKINode Title="ModificationType property" Url="html/C6760957.htm" />
+  <HelpKINode Title="Modify enumeration member" Url="html/F098EBC9.htm" />
   <HelpKINode Title="Multivalued field" Url="html/CAC6124C.htm" />
   <HelpKINode Title="MVObjectID field" Url="html/3948830.htm" />
   <HelpKINode Title="Name field" Url="html/3C2DADC1.htm" />
@@ -462,6 +513,7 @@
   <HelpKINode Title="ObjectTypeNames.ManagementPolicyRule field" Url="html/4B07DCA7.htm" />
   <HelpKINode Title="ObjectTypeNames.ObjectTypeDescription field" Url="html/C0F13A9F.htm" />
   <HelpKINode Title="ObjectTypeNames.Person field" Url="html/592BF77D.htm" />
+  <HelpKINode Title="ObjectTypeNames.Request field" Url="html/EFC45B9D.htm" />
   <HelpKINode Title="ObjectTypeNames.Set field" Url="html/6F042E27.htm" />
   <HelpKINode Title="ObjectTypeNames.Workflow field" Url="html/AA568285.htm" />
   <HelpKINode Title="ObjectTypeNameValidationRegex property" Url="html/63E076C6.htm" />
@@ -485,9 +537,11 @@
   <HelpKINode Title="PermissionDeniedException.FailureMessage property" Url="html/E64274DD.htm" />
   <HelpKINode Title="PermissionDeniedException.FailureSource property" Url="html/6C759332.htm" />
   <HelpKINode Title="PermissionDeniedException.PermissionDeniedException constructor" Url="html/FE94EA30.htm" />
+  <HelpKINode Title="PermissionHint property" Url="html/3EDEE22.htm" />
   <HelpKINode Title="Person field" Url="html/592BF77D.htm" />
   <HelpKINode Title="Queries property" Url="html/3217B178.htm" />
   <HelpKINode Title="Query property" Url="html/7A74772D.htm" />
+  <HelpKINode Title="Read enumeration member" Url="html/F098EBC9.htm" />
   <HelpKINode Title="ReadOnlyValueModificationException class">
     <HelpKINode Title="ReadOnlyValueModificationException Class" Url="html/565F8497.htm" />
     <HelpKINode Title="about ReadOnlyValueModificationException class" Url="html/565F8497.htm" />
@@ -505,10 +559,17 @@
   <HelpKINode Title="RefreshSchema method" Url="html/52931EC4.htm" />
   <HelpKINode Title="Regex property" Url="html/9B07EDF2.htm" />
   <HelpKINode Title="Rejected enumeration member" Url="html/6AF410B7.htm" />
+  <HelpKINode Title="Remove enumeration member" Url="html/F098EBC9.htm" />
   <HelpKINode Title="Remove method" Url="html/7CAF26C7.htm" />
-  <HelpKINode Title="RemoveValue method" Url="html/2A330053.htm" />
+  <HelpKINode Title="RemoveValue method">
+    <HelpKINode Title="AttributeValue.RemoveValue Method " Url="html/2A330053.htm" />
+    <HelpKINode Title="Extensions.RemoveValue Method " Url="html/C0EA3B9F.htm" />
+  </HelpKINode>
   <HelpKINode Title="RemoveValues method" Url="html/8AF3610F.htm" />
+  <HelpKINode Title="Request field" Url="html/EFC45B9D.htm" />
+  <HelpKINode Title="RequestParameter field" Url="html/E8156417.htm" />
   <HelpKINode Title="Required field" Url="html/46ACD0C6.htm" />
+  <HelpKINode Title="ResourceFormat property" Url="html/476323B7.htm" />
   <HelpKINode Title="ResourceManagementClient class">
     <HelpKINode Title="ResourceManagementClient Class" Url="html/80AE9160.htm" />
     <HelpKINode Title="about ResourceManagementClient class" Url="html/80AE9160.htm" />
@@ -575,6 +636,7 @@
   </HelpKINode>
   <HelpKINode Title="ResourceObject.Attributes property" Url="html/6FCBC96A.htm" />
   <HelpKINode Title="ResourceObject.DisplayName property" Url="html/B65782EE.htm" />
+  <HelpKINode Title="ResourceObject.HasPermissionHints property" Url="html/6904C5D8.htm" />
   <HelpKINode Title="ResourceObject.HasValue method" Url="html/AF14D2E5.htm" />
   <HelpKINode Title="ResourceObject.Locale property" Url="html/343BA5.htm" />
   <HelpKINode Title="ResourceObject.ModificationType property" Url="html/C6760957.htm" />
@@ -587,6 +649,19 @@
   <HelpKINode Title="ResourceObject.Save method" Url="html/E5DB689C.htm" />
   <HelpKINode Title="ResourceObject.ToString method" Url="html/2ADB7807.htm" />
   <HelpKINode Title="ResourceObject.UndoChanges method" Url="html/432265C0.htm" />
+  <HelpKINode Title="ResourceReference property" Url="html/FE5D643E.htm" />
+  <HelpKINode Title="ResourceSerializationHandling enumeration" Url="html/711C5DBD.htm" />
+  <HelpKINode Title="ResourceSerializationSettings structure">
+    <HelpKINode Title="ResourceSerializationSettings Structure" Url="html/985CAB36.htm" />
+    <HelpKINode Title="about ResourceSerializationSettings structure" Url="html/985CAB36.htm" />
+    <HelpKINode Title="methods" Url="html/F270145D.htm" />
+    <HelpKINode Title="properties" Url="html/4E74BA87.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResourceSerializationSettings.ArrayHandling property" Url="html/532E4B16.htm" />
+  <HelpKINode Title="ResourceSerializationSettings.IncludeNullValues property" Url="html/271D9A8C.htm" />
+  <HelpKINode Title="ResourceSerializationSettings.IncludePermissionHints property" Url="html/C578D0BE.htm" />
+  <HelpKINode Title="ResourceSerializationSettings.ResourceFormat property" Url="html/476323B7.htm" />
+  <HelpKINode Title="ResourceSerializationSettings.ValueFormat property" Url="html/1B6FB9E6.htm" />
   <HelpKINode Title="ResourceTime field" Url="html/DDF78313.htm" />
   <HelpKINode Title="Save method" Url="html/E5DB689C.htm" />
   <HelpKINode Title="SaveResource method" Url="html/D72C8B62.htm" />
@@ -620,7 +695,10 @@
   <HelpKINode Title="SearchResultPager.PageSize property" Url="html/1359BED2.htm" />
   <HelpKINode Title="SearchResultPager.TotalCount property" Url="html/7F6F4B.htm" />
   <HelpKINode Title="Set field" Url="html/6F042E27.htm" />
-  <HelpKINode Title="SetValue method" Url="html/5ABE06B6.htm" />
+  <HelpKINode Title="SetValue method">
+    <HelpKINode Title="AttributeValue.SetValue Method " Url="html/5ABE06B6.htm" />
+    <HelpKINode Title="Extensions.SetValue Method " Url="html/577C0067.htm" />
+  </HelpKINode>
   <HelpKINode Title="StartsWith enumeration member" Url="html/B5F22A93.htm" />
   <HelpKINode Title="String enumeration member" Url="html/5816FE1D.htm" />
   <HelpKINode Title="StringRegex field" Url="html/52E9A8AE.htm" />
@@ -658,6 +736,7 @@
   </HelpKINode>
   <HelpKINode Title="Unknown enumeration member">
     <HelpKINode Title="ApprovalStatus Enumeration" Url="html/6AF410B7.htm" />
+    <HelpKINode Title="AttributePermission Enumeration" Url="html/F098EBC9.htm" />
     <HelpKINode Title="AttributeType Enumeration" Url="html/5816FE1D.htm" />
   </HelpKINode>
   <HelpKINode Title="UnsupportedDataTypeException class">
@@ -692,6 +771,8 @@
     <HelpKINode Title="XPathQuery.Value Property " Url="html/39BAA76D.htm" />
   </HelpKINode>
   <HelpKINode Title="ValueChanges property" Url="html/C85D644D.htm" />
+  <HelpKINode Title="ValueFormat property" Url="html/1B6FB9E6.htm" />
+  <HelpKINode Title="WhenRequired enumeration member" Url="html/F70F94B0.htm" />
   <HelpKINode Title="Workflow field" Url="html/AA568285.htm" />
   <HelpKINode Title="WorkflowInstance field" Url="html/13CE40B3.htm" />
   <HelpKINode Title="WrapFilterXml property" Url="html/D5D4588B.htm" />
