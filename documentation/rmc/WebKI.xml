@@ -157,6 +157,8 @@
   <HelpKINode Title="AttributeValue.UndoChanges method" Url="html/12C00793.htm" />
   <HelpKINode Title="AttributeValue.Value property" Url="html/574B4CFF.htm" />
   <HelpKINode Title="AttributeValue.ValueChanges property" Url="html/C85D644D.htm" />
+  <HelpKINode Title="AttributeValue.Values property" Url="html/6D95224A.htm" />
+  <HelpKINode Title="AttributeValue.ValuesAsString property" Url="html/9DED2112.htm" />
   <HelpKINode Title="AttributeValueChange class">
     <HelpKINode Title="AttributeValueChange Class" Url="html/1678CAEA.htm" />
     <HelpKINode Title="about AttributeValueChange class" Url="html/1678CAEA.htm" />
@@ -229,6 +231,7 @@
   <HelpKINode Title="ComputedAttributes property" Url="html/5D79B29B.htm" />
   <HelpKINode Title="Contains enumeration member" Url="html/B5F22A93.htm" />
   <HelpKINode Title="ContainsAttribute method" Url="html/F0357CB9.htm" />
+  <HelpKINode Title="ContainsObjectType method" Url="html/8461A3C.htm" />
   <HelpKINode Title="ConvertToString enumeration member" Url="html/FDEAEFFC.htm" />
   <HelpKINode Title="CorrelationID property" Url="html/F55D9FCB.htm" />
   <HelpKINode Title="Count property">
@@ -289,6 +292,7 @@
     <HelpKINode Title="methods" Url="html/BE5DBA8C.htm" />
   </HelpKINode>
   <HelpKINode Title="Extensions.AddValue method" Url="html/C4260120.htm" />
+  <HelpKINode Title="Extensions.GetValueOrDefault method" Url="html/F1A3A33D.htm" />
   <HelpKINode Title="Extensions.HasValue method" Url="html/9E0DFFEB.htm" />
   <HelpKINode Title="Extensions.RemoveValue method" Url="html/C0EA3B9F.htm" />
   <HelpKINode Title="Extensions.SetValue method" Url="html/577C0067.htm" />
@@ -315,12 +319,14 @@
   <HelpKINode Title="GetHashCode method" Url="html/BB2FCE60.htm" />
   <HelpKINode Title="GetNextPage method" Url="html/C731B9BF.htm" />
   <HelpKINode Title="GetObjectType method" Url="html/499B105D.htm" />
+  <HelpKINode Title="GetObjectTypes method" Url="html/ACCF46EF.htm" />
   <HelpKINode Title="GetResource method" Url="html/17D97CBE.htm" />
   <HelpKINode Title="GetResourceByKey method" Url="html/D6888161.htm" />
   <HelpKINode Title="GetResourceCount method" Url="html/99C0EEFF.htm" />
   <HelpKINode Title="GetResources method" Url="html/69847CBE.htm" />
   <HelpKINode Title="GetResourcesAsync method" Url="html/C3C6B48A.htm" />
   <HelpKINode Title="GetResourcesPaged method" Url="html/10A956BE.htm" />
+  <HelpKINode Title="GetValueOrDefault method" Url="html/F1A3A33D.htm" />
   <HelpKINode Title="GreaterThan enumeration member" Url="html/B5F22A93.htm" />
   <HelpKINode Title="GreaterThanOrEquals enumeration member" Url="html/B5F22A93.htm" />
   <HelpKINode Title="Group field" Url="html/C9C1891C.htm" />
@@ -517,7 +523,6 @@
   <HelpKINode Title="ObjectTypeNames.Set field" Url="html/6F042E27.htm" />
   <HelpKINode Title="ObjectTypeNames.Workflow field" Url="html/AA568285.htm" />
   <HelpKINode Title="ObjectTypeNameValidationRegex property" Url="html/63E076C6.htm" />
-  <HelpKINode Title="ObjectTypes property" Url="html/718FF3FA.htm" />
   <HelpKINode Title="OperationType enumeration" Url="html/EE93733B.htm" />
   <HelpKINode Title="Operator property" Url="html/74003E1E.htm" />
   <HelpKINode Title="Or enumeration member" Url="html/2C632699.htm" />
@@ -611,11 +616,13 @@
   </HelpKINode>
   <HelpKINode Title="ResourceManagementSchema.AttributeNameValidationRegex property" Url="html/BD587F6F.htm" />
   <HelpKINode Title="ResourceManagementSchema.ComputedAttributes property" Url="html/5D79B29B.htm" />
+  <HelpKINode Title="ResourceManagementSchema.ContainsObjectType method" Url="html/8461A3C.htm" />
   <HelpKINode Title="ResourceManagementSchema.GetAttributeType method" Url="html/E4D8AEC.htm" />
   <HelpKINode Title="ResourceManagementSchema.GetObjectType method" Url="html/499B105D.htm" />
+  <HelpKINode Title="ResourceManagementSchema.GetObjectTypes method" Url="html/ACCF46EF.htm" />
   <HelpKINode Title="ResourceManagementSchema.IsAttributeMultivalued method" Url="html/29E6BC78.htm" />
   <HelpKINode Title="ResourceManagementSchema.ObjectTypeNameValidationRegex property" Url="html/63E076C6.htm" />
-  <HelpKINode Title="ResourceManagementSchema.ObjectTypes property" Url="html/718FF3FA.htm" />
+  <HelpKINode Title="ResourceManagementSchema.SchemaEndpoint property" Url="html/1E123A80.htm" />
   <HelpKINode Title="ResourceManagementSchema.ValidateAttributeName method" Url="html/3155F127.htm" />
   <HelpKINode Title="ResourceManagementSchema.ValidateObjectTypeName method" Url="html/A056DCF8.htm" />
   <HelpKINode Title="ResourceNotFoundException class">
@@ -667,6 +674,7 @@
   <HelpKINode Title="SaveResource method" Url="html/D72C8B62.htm" />
   <HelpKINode Title="SaveResources method" Url="html/44E66A3D.htm" />
   <HelpKINode Title="SaveResourcesParallel method" Url="html/63135259.htm" />
+  <HelpKINode Title="SchemaEndpoint property" Url="html/1E123A80.htm" />
   <HelpKINode Title="SearchResultCollection class">
     <HelpKINode Title="SearchResultCollection Class" Url="html/A82FAADB.htm" />
     <HelpKINode Title="about SearchResultCollection class" Url="html/A82FAADB.htm" />
@@ -772,6 +780,8 @@
   </HelpKINode>
   <HelpKINode Title="ValueChanges property" Url="html/C85D644D.htm" />
   <HelpKINode Title="ValueFormat property" Url="html/1B6FB9E6.htm" />
+  <HelpKINode Title="Values property" Url="html/6D95224A.htm" />
+  <HelpKINode Title="ValuesAsString property" Url="html/9DED2112.htm" />
   <HelpKINode Title="WhenRequired enumeration member" Url="html/F70F94B0.htm" />
   <HelpKINode Title="Workflow field" Url="html/AA568285.htm" />
   <HelpKINode Title="WorkflowInstance field" Url="html/13CE40B3.htm" />
